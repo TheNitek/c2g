@@ -1,0 +1,12 @@
+{
+    "address": "NW Recreation Center Charging Station",
+    "charging": true,
+    "coordinates": [-97.75133, 30.33397, 0],
+    "engineType": "ED",
+    "exterior": "GOOD",
+    "fuel": 96,
+    "interior": "GOOD",
+    "name": "BCF 5535",
+    "smartPhoneRequired": false,
+    "vin": "WMEEJ9BA7BK476722"
+}

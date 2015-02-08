@@ -1,0 +1,21 @@
+{
+    "countryCode": "US",
+    "defaultLanguage": "en",
+    "locationId": 2,
+    "locationName": "Austin",
+    "mapSection": {
+        "center": {
+            "latitude": 30.2794,
+            "longitude": -97.7434
+        },
+        "lowerRight": {
+            "latitude": 30.160647,
+            "longitude": -97.604331
+        },
+        "upperLeft": {
+            "latitude": 30.42769,
+            "longitude": -97.918696
+        }
+    },
+    "timezone": "America/Chicago"
+}

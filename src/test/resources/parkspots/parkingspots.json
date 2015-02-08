@@ -1,0 +1,219 @@
+{
+    "placemarks": [{
+            "chargingPole": false,
+            "coordinates": [10.01813, 53.6524, 0],
+            "name": "Europcar Hauptverwaltung",
+            "totalCapacity": 2,
+            "usedCapacity": 0
+        }, {
+            "chargingPole": false,
+            "coordinates": [10.09433, 53.5111, 0],
+            "name": "IKEA Moorfleet - Parkbereich C",
+            "totalCapacity": 5,
+            "usedCapacity": 0
+        }, {
+            "chargingPole": false,
+            "coordinates": [10.01645, 53.57159, 0],
+            "name": "Aspria Uhlenhorst",
+            "totalCapacity": 1,
+            "usedCapacity": 0
+        }, {
+            "chargingPole": false,
+            "coordinates": [10.12173, 53.57905, 0],
+            "name": "Hansehof",
+            "totalCapacity": 3,
+            "usedCapacity": 0
+        }, {
+            "chargingPole": false,
+            "coordinates": [9.93985, 53.59377, 0],
+            "name": "Lindner Hotels & Resorts HAGENBECK",
+            "totalCapacity": 3,
+            "usedCapacity": 0
+        }, {
+            "chargingPole": false,
+            "coordinates": [10.02377, 53.55328, 0],
+            "name": "switchh - Berliner Tor",
+            "totalCapacity": 4,
+            "usedCapacity": 0
+        }, {
+            "chargingPole": false,
+            "coordinates": [10.09581, 53.55206, 0],
+            "name": "EDEKA Horn",
+            "totalCapacity": 1,
+            "usedCapacity": 0
+        }, {
+            "chargingPole": false,
+            "coordinates": [9.98525, 53.59034, 0],
+            "name": "Parkhaus Marie-Jonas-Platz,Parkdeck 3,",
+            "totalCapacity": 10,
+            "usedCapacity": 0
+        }, {
+            "chargingPole": false,
+            "coordinates": [9.98673, 53.55201, 0],
+            "name": "Parkhaus Bleichenhof, Parkdeck R",
+            "totalCapacity": 15,
+            "usedCapacity": 0
+        }, {
+            "chargingPole": false,
+            "coordinates": [9.94407, 53.54862, 0],
+            "name": "Shell-Station, Königstr. 22, 22767 Hamburg",
+            "totalCapacity": 4,
+            "usedCapacity": 0
+        }, {
+            "chargingPole": false,
+            "coordinates": [10.0234, 53.57404, 0],
+            "name": "Shell-Station, Winterhuder Weg 72, 22085 Hamburg",
+            "totalCapacity": 2,
+            "usedCapacity": 0
+        }, {
+            "chargingPole": false,
+            "coordinates": [9.95696, 53.56216, 0],
+            "name": "Shell-Station, Max-Brauer-Allee 216, 22769 Hamburg",
+            "totalCapacity": 4,
+            "usedCapacity": 0
+        }, {
+            "chargingPole": false,
+            "coordinates": [9.95379, 53.57062, 0],
+            "name": "Shell-Station, Fruchtallee 95, 20259 Hamburg",
+            "totalCapacity": 4,
+            "usedCapacity": 0
+        }, {
+            "chargingPole": false,
+            "coordinates": [9.96688, 53.55078, 0],
+            "name": "Parkhaus Nomis Quartier, Parkdeck 3",
+            "totalCapacity": 10,
+            "usedCapacity": 0
+        }, {
+            "chargingPole": false,
+            "coordinates": [9.95299, 53.56747, 0],
+            "name": "Shell-Station, Doormannsweg 45, 20259 Hamburg",
+            "totalCapacity": 3,
+            "usedCapacity": 0
+        }, {
+            "chargingPole": false,
+            "coordinates": [10.09964, 53.58957, 0],
+            "name": "Shell-Station, Friedrich-Ebert-Damm 171",
+            "totalCapacity": 2,
+            "usedCapacity": 0
+        }, {
+            "chargingPole": false,
+            "coordinates": [9.91883, 53.56726, 0],
+            "name": "Europcar Shop, Bornkampsweg 60, 22761 Hamburg",
+            "totalCapacity": 2,
+            "usedCapacity": 1
+        }, {
+            "chargingPole": false,
+            "coordinates": [10.12585, 53.58416, 0],
+            "name": "Studio Hamburg",
+            "totalCapacity": 2,
+            "usedCapacity": 2
+        }, {
+            "chargingPole": false,
+            "coordinates": [10.10118, 53.59785, 0],
+            "name": "EDEKA Farmsen",
+            "totalCapacity": 1,
+            "usedCapacity": 0
+        }, {
+            "chargingPole": false,
+            "coordinates": [10.02369, 53.61201, 0],
+            "name": "EDEKA Alsterdorf",
+            "totalCapacity": 1,
+            "usedCapacity": 0
+        }, {
+            "chargingPole": false,
+            "coordinates": [9.95982, 53.59161, 0],
+            "name": "EDEKA Lokstedt",
+            "totalCapacity": 1,
+            "usedCapacity": 0
+        }, {
+            "chargingPole": false,
+            "coordinates": [10.03727, 53.56429, 0],
+            "name": "EDEKA Eilbek",
+            "totalCapacity": 1,
+            "usedCapacity": 0
+        }, {
+            "chargingPole": false,
+            "coordinates": [9.92732, 53.6472, 0],
+            "name": "IKEA Schnelsen - Parkbereich A3",
+            "totalCapacity": 5,
+            "usedCapacity": 0
+        }, {
+            "chargingPole": false,
+            "coordinates": [10.0073, 53.63201, 0],
+            "name": "HH Flughafen P4 / Gasse P / Anfahrt ü. \"Departure\"",
+            "totalCapacity": 20,
+            "usedCapacity": 5
+        }, {
+            "chargingPole": false,
+            "coordinates": [10.07073, 53.60024, 0],
+            "name": "Otto",
+            "totalCapacity": 3,
+            "usedCapacity": 0
+        }, {
+            "chargingPole": false,
+            "coordinates": [9.99349, 53.53966, 0],
+            "name": "Unilever",
+            "totalCapacity": 3,
+            "usedCapacity": 1
+        }, {
+            "chargingPole": false,
+            "coordinates": [9.99298, 53.45615, 0],
+            "name": "switchh Harburg",
+            "totalCapacity": 3,
+            "usedCapacity": 0
+        }, {
+            "chargingPole": false,
+            "coordinates": [10.20527, 53.49011, 0],
+            "name": "switchh Bergedorf",
+            "totalCapacity": 3,
+            "usedCapacity": 0
+        }, {
+            "chargingPole": false,
+            "coordinates": [9.9467, 53.59587, 0],
+            "name": "Parkspot_NDR",
+            "totalCapacity": 4,
+            "usedCapacity": 0
+        }, {
+            "chargingPole": false,
+            "coordinates": [10.06991, 53.57186, 0],
+            "name": "switchh - Wandsbek Markt",
+            "totalCapacity": 3,
+            "usedCapacity": 0
+        }, {
+            "chargingPole": false,
+            "coordinates": [10.0295, 53.54482, 0],
+            "name": "MB NL Heidenkampsweg",
+            "totalCapacity": 2,
+            "usedCapacity": 0
+        }, {
+            "chargingPole": false,
+            "coordinates": [9.951, 53.45992, 0],
+            "name": "Asklepios Harburg",
+            "totalCapacity": 5,
+            "usedCapacity": 0
+        }, {
+            "chargingPole": false,
+            "coordinates": [9.99027, 53.58931, 0],
+            "name": "switchh Kellinghusenstraße",
+            "totalCapacity": 4,
+            "usedCapacity": 0
+        }, {
+            "chargingPole": false,
+            "coordinates": [10.03554, 53.60631, 0],
+            "name": "Asklepios Barmbek",
+            "totalCapacity": 5,
+            "usedCapacity": 0
+        }, {
+            "chargingPole": false,
+            "coordinates": [9.93644, 53.55225, 0],
+            "name": "switchh Altona",
+            "totalCapacity": 4,
+            "usedCapacity": 4
+        }, {
+            "chargingPole": false,
+            "coordinates": [10.03298, 53.58869, 0],
+            "name": "switchh Saarlandstraße",
+            "totalCapacity": 4,
+            "usedCapacity": 0
+        }]
+}

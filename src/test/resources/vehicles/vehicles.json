@@ -1,0 +1,4318 @@
+{
+    "placemarks": [{
+            "address": "Cresthaven Dr 1740, 78704 Austin",
+            "coordinates": [-97.78191, 30.26035, 0],
+            "engineType": "CE",
+            "exterior": "GOOD",
+            "fuel": 93,
+            "interior": "GOOD",
+            "name": "CK9 T400",
+            "smartPhoneRequired": false,
+            "vin": "WMEEJ3BAXAK402951"
+        }, {
+            "address": "ACC Riverside Campus II",
+            "coordinates": [-97.70185, 30.23657, 0],
+            "engineType": "CE",
+            "exterior": "GOOD",
+            "fuel": 48,
+            "interior": "GOOD",
+            "name": "CK9 T261",
+            "smartPhoneRequired": false,
+            "vin": "WMEEJ3BAXAK418096"
+        }, {
+            "address": "Wood Hollow Dr 7186, 78731 Austin",
+            "coordinates": [-97.75207, 30.35506, 0],
+            "engineType": "CE",
+            "exterior": "GOOD",
+            "fuel": 66,
+            "interior": "GOOD",
+            "name": "CK9 T274",
+            "smartPhoneRequired": false,
+            "vin": "WMEEJ3BA5AK418071"
+        }, {
+            "address": "Lightsey Rd 1909, 78704 Austin",
+            "coordinates": [-97.78022, 30.24087, 0],
+            "engineType": "CE",
+            "exterior": "GOOD",
+            "fuel": 48,
+            "interior": "GOOD",
+            "name": "CK9 T268",
+            "smartPhoneRequired": false,
+            "vin": "WMEEJ3BAXAK416686"
+        }, {
+            "address": "Branch St 1116, 78702 Austin",
+            "coordinates": [-97.73137, 30.2702, 0],
+            "engineType": "CE",
+            "exterior": "GOOD",
+            "fuel": 87,
+            "interior": "GOOD",
+            "name": "CK9 T397",
+            "smartPhoneRequired": false,
+            "vin": "WMEEJ3BA7AK417116"
+        }, {
+            "address": "W 8th St 625, 78701 Austin",
+            "coordinates": [-97.74799, 30.27156, 0],
+            "engineType": "CE",
+            "exterior": "GOOD",
+            "fuel": 33,
+            "interior": "GOOD",
+            "name": "CK9 T413",
+            "smartPhoneRequired": false,
+            "vin": "WMEEJ3BAXAK416980"
+        }, {
+            "address": "Romeria Dr 1059, 78757 Austin",
+            "coordinates": [-97.7262, 30.33124, 0],
+            "engineType": "CE",
+            "exterior": "UNACCEPTABLE",
+            "fuel": 36,
+            "interior": "UNACCEPTABLE",
+            "name": "CK9 T405",
+            "smartPhoneRequired": false,
+            "vin": "WMEEJ3BA8AK416850"
+        }, {
+            "address": "Canterbury St 2511, 78702 Austin",
+            "coordinates": [-97.71701, 30.25229, 0],
+            "engineType": "CE",
+            "exterior": "GOOD",
+            "fuel": 27,
+            "interior": "GOOD",
+            "name": "CK9 T282",
+            "smartPhoneRequired": false,
+            "vin": "WMEEJ3BA0AK416972"
+        }, {
+            "address": "E 6th St 1679, 78702 Austin",
+            "coordinates": [-97.72488, 30.26252, 0],
+            "engineType": "CE",
+            "exterior": "GOOD",
+            "fuel": 81,
+            "interior": "GOOD",
+            "name": "CK9 T386",
+            "smartPhoneRequired": false,
+            "vin": "WMEEJ3BA3AK417985"
+        }, {
+            "address": "Juniper St 1106, 78702 Austin",
+            "coordinates": [-97.72801, 30.26957, 0],
+            "engineType": "CE",
+            "exterior": "GOOD",
+            "fuel": 57,
+            "interior": "GOOD",
+            "name": "CK9 T290",
+            "smartPhoneRequired": false,
+            "vin": "WMEEJ3BA3AK418103"
+        }, {
+            "address": "Douglas St 2328, 78741 Austin",
+            "coordinates": [-97.73224, 30.2291, 0],
+            "engineType": "CE",
+            "exterior": "GOOD",
+            "fuel": 96,
+            "interior": "GOOD",
+            "name": "CK9 T312",
+            "smartPhoneRequired": false,
+            "vin": "WMEEJ3BA6AK418208"
+        }, {
+            "address": "Ridgemont Dr 1207, 78723 Austin",
+            "coordinates": [-97.70349, 30.31407, 0],
+            "engineType": "CE",
+            "exterior": "GOOD",
+            "fuel": 66,
+            "interior": "GOOD",
+            "name": "CK9 T241",
+            "smartPhoneRequired": false,
+            "vin": "WMEEJ3BA1AK417967"
+        }, {
+            "address": "N Lamar Blvd 4655, 78756 Austin",
+            "coordinates": [-97.73509, 30.31562, 0],
+            "engineType": "CE",
+            "exterior": "UNACCEPTABLE",
+            "fuel": 66,
+            "interior": "UNACCEPTABLE",
+            "name": "CK9 T242",
+            "smartPhoneRequired": false,
+            "vin": "WMEEJ3BA1AK418195"
+        }, {
+            "address": "Haskell St 2129, 78702 Austin",
+            "coordinates": [-97.72372, 30.2515, 0],
+            "engineType": "CE",
+            "exterior": "GOOD",
+            "fuel": 33,
+            "interior": "GOOD",
+            "name": "CK9 T394",
+            "smartPhoneRequired": false,
+            "vin": "WMEEJ3BA7AK416533"
+        }, {
+            "address": "Valley View Rd 3781, 78704 Austin",
+            "coordinates": [-97.78193, 30.23502, 0],
+            "engineType": "CE",
+            "exterior": "GOOD",
+            "fuel": 36,
+            "interior": "GOOD",
+            "name": "CK9 T376",
+            "smartPhoneRequired": false,
+            "vin": "WMEEJ3BA2AK416942"
+        }, {
+            "address": "Paramount Ave 1930, 78704 Austin",
+            "coordinates": [-97.77623, 30.25379, 0],
+            "engineType": "CE",
+            "exterior": "GOOD",
+            "fuel": 57,
+            "interior": "GOOD",
+            "name": "DX6 C445",
+            "smartPhoneRequired": false,
+            "vin": "WMEEJ3BA3AK416805"
+        }, {
+            "address": "Riverview St 2069, 78702 Austin",
+            "coordinates": [-97.72495, 30.25088, 0],
+            "engineType": "CE",
+            "exterior": "GOOD",
+            "fuel": 45,
+            "interior": "GOOD",
+            "name": "CK9 T369",
+            "smartPhoneRequired": false,
+            "vin": "WMEEJ3BA6AK416569"
+        }, {
+            "address": "Coventry Ln 5672, 78723 Austin",
+            "coordinates": [-97.68462, 30.30572, 0],
+            "engineType": "CE",
+            "exterior": "GOOD",
+            "fuel": 60,
+            "interior": "GOOD",
+            "name": "CK9 T247",
+            "smartPhoneRequired": false,
+            "vin": "WMEEJ3BA0AK416678"
+        }, {
+            "address": "Elkhart St 136, 78702 Austin",
+            "coordinates": [-97.72246, 30.25679, 0],
+            "engineType": "CE",
+            "exterior": "GOOD",
+            "fuel": 100,
+            "interior": "GOOD",
+            "name": "CK9 T244",
+            "smartPhoneRequired": false,
+            "vin": "WMEEJ3BA0AK417359"
+        }, {
+            "address": "Cody Ct 2046, 78704 Austin",
+            "coordinates": [-97.78018, 30.24201, 0],
+            "engineType": "CE",
+            "exterior": "GOOD",
+            "fuel": 63,
+            "interior": "GOOD",
+            "name": "CK9 T375",
+            "smartPhoneRequired": false,
+            "vin": "WMEEJ3BA3AK416755"
+        }, {
+            "address": "Lupine Ln 1617, 78741 Austin",
+            "coordinates": [-97.7315, 30.24345, 0],
+            "engineType": "CE",
+            "exterior": "GOOD",
+            "fuel": 96,
+            "interior": "GOOD",
+            "name": "CK9 T341",
+            "smartPhoneRequired": false,
+            "vin": "WMEEJ3BA0AK416714"
+        }, {
+            "address": "E 5th St 1736, 78702 Austin",
+            "coordinates": [-97.72507, 30.26157, 0],
+            "engineType": "CE",
+            "exterior": "GOOD",
+            "fuel": 100,
+            "interior": "GOOD",
+            "name": "CK9 T297",
+            "smartPhoneRequired": false,
+            "vin": "WMEEJ3BA9AK416887"
+        }, {
+            "address": "San Gabriel St 2912, 78705 Austin",
+            "coordinates": [-97.74761, 30.29795, 0],
+            "engineType": "CE",
+            "exterior": "GOOD",
+            "fuel": 36,
+            "interior": "GOOD",
+            "name": "CK9 T412",
+            "smartPhoneRequired": false,
+            "vin": "WMEEJ3BA9AK417991"
+        }, {
+            "address": "Canterbury St 1685, 78702 Austin",
+            "coordinates": [-97.72774, 30.2561, 0],
+            "engineType": "CE",
+            "exterior": "GOOD",
+            "fuel": 63,
+            "interior": "GOOD",
+            "name": "CK9 T286",
+            "smartPhoneRequired": false,
+            "vin": "WMEEJ3BA4AK416926"
+        }, {
+            "address": "Simond Ave 2030, 78723 Austin",
+            "coordinates": [-97.70199, 30.29789, 0],
+            "engineType": "CE",
+            "exterior": "GOOD",
+            "fuel": 78,
+            "interior": "GOOD",
+            "name": "CK9 T321",
+            "smartPhoneRequired": false,
+            "vin": "WMEEJ3BA6AK418015"
+        }, {
+            "address": "S 1st St 3693, 78704 Austin",
+            "coordinates": [-97.76679, 30.22911, 0],
+            "engineType": "CE",
+            "exterior": "GOOD",
+            "fuel": 33,
+            "interior": "GOOD",
+            "name": "CK9 T407",
+            "smartPhoneRequired": false,
+            "vin": "WMEEJ3BA5AK417132"
+        }, {
+            "address": "Exposition Blvd 2408, 78703 Austin",
+            "coordinates": [-97.76812, 30.29726, 0],
+            "engineType": "CE",
+            "exterior": "GOOD",
+            "fuel": 100,
+            "interior": "GOOD",
+            "name": "CK9 T374",
+            "smartPhoneRequired": false,
+            "vin": "WMEEJ3BA0AK417460"
+        }, {
+            "address": "Navasota St 800, 78702 Austin",
+            "coordinates": [-97.72755, 30.26562, 0],
+            "engineType": "CE",
+            "exterior": "GOOD",
+            "fuel": 66,
+            "interior": "GOOD",
+            "name": "CK9 T332",
+            "smartPhoneRequired": false,
+            "vin": "WMEEJ3BA8AK418131"
+        }, {
+            "address": "Vineland Dr 3874, 78722 Austin",
+            "coordinates": [-97.71066, 30.29019, 0],
+            "engineType": "CE",
+            "exterior": "GOOD",
+            "fuel": 69,
+            "interior": "GOOD",
+            "name": "CK9 T370",
+            "smartPhoneRequired": false,
+            "vin": "WMEEJ3BA7AK418010"
+        }, {
+            "address": "Red River St 1154, 78701 Austin",
+            "coordinates": [-97.73525, 30.27202, 0],
+            "engineType": "CE",
+            "exterior": "UNACCEPTABLE",
+            "fuel": 100,
+            "interior": "UNACCEPTABLE",
+            "name": "CK9 T398",
+            "smartPhoneRequired": false,
+            "vin": "WMEEJ3BA4AK416540"
+        }, {
+            "address": "3rd St S 2286, 78704 Austin",
+            "coordinates": [-97.76124, 30.24435, 0],
+            "engineType": "CE",
+            "exterior": "GOOD",
+            "fuel": 93,
+            "interior": "GOOD",
+            "name": "CK9 T309",
+            "smartPhoneRequired": false,
+            "vin": "WMEEJ3BA6AK416698"
+        }, {
+            "address": "Canterbury St 2215, 78702 Austin",
+            "coordinates": [-97.72096, 30.25371, 0],
+            "engineType": "CE",
+            "exterior": "GOOD",
+            "fuel": 24,
+            "interior": "GOOD",
+            "name": "CK9 T371",
+            "smartPhoneRequired": false,
+            "vin": "WMEEJ3BA8AK416900"
+        }, {
+            "address": "Cordell Ln 5614, 78723 Austin",
+            "coordinates": [-97.67937, 30.30133, 0],
+            "engineType": "CE",
+            "exterior": "GOOD",
+            "fuel": 100,
+            "interior": "GOOD",
+            "name": "CK9 T235",
+            "smartPhoneRequired": false,
+            "vin": "WMEEJ3BA2AK416858"
+        }, {
+            "address": "Gillis St 4534, 78745 Austin",
+            "coordinates": [-97.78398, 30.22378, 0],
+            "engineType": "CE",
+            "exterior": "GOOD",
+            "fuel": 63,
+            "interior": "GOOD",
+            "name": "CK9 T418",
+            "smartPhoneRequired": false,
+            "vin": "WMEEJ3BA1AK416690"
+        }, {
+            "address": "Duval St 4502, 78751 Austin",
+            "coordinates": [-97.72457, 30.30722, 0],
+            "engineType": "CE",
+            "exterior": "GOOD",
+            "fuel": 66,
+            "interior": "GOOD",
+            "name": "CK9 T311",
+            "smartPhoneRequired": false,
+            "vin": "WMEEJ3BAXAK418020"
+        }, {
+            "address": "Manchaca Rd 3643, 78704 Austin",
+            "coordinates": [-97.78361, 30.23709, 0],
+            "engineType": "CE",
+            "exterior": "GOOD",
+            "fuel": 84,
+            "interior": "GOOD",
+            "name": "CK9 T419",
+            "smartPhoneRequired": false,
+            "vin": "WMEEJ3BA3AK416917"
+        }, {
+            "address": "Loma Dr 1214, 78741 Austin",
+            "coordinates": [-97.73099, 30.24425, 0],
+            "engineType": "CE",
+            "exterior": "GOOD",
+            "fuel": 42,
+            "interior": "GOOD",
+            "name": "CK9 T366",
+            "smartPhoneRequired": false,
+            "vin": "WMEEJ3BA5AK418118"
+        }, {
+            "address": "The Parking Spot",
+            "coordinates": [-97.67598, 30.22049, 0],
+            "engineType": "CE",
+            "exterior": "GOOD",
+            "fuel": 36,
+            "interior": "GOOD",
+            "name": "CK9 T382",
+            "smartPhoneRequired": false,
+            "vin": "WMEEJ3BAXAK417997"
+        }, {
+            "address": "Alpine Rd W 269, 78704 Austin",
+            "coordinates": [-97.76319, 30.22895, 0],
+            "engineType": "CE",
+            "exterior": "GOOD",
+            "fuel": 100,
+            "interior": "GOOD",
+            "name": "CK9 T299",
+            "smartPhoneRequired": false,
+            "vin": "WMEEJ3BA6AK418144"
+        }, {
+            "address": "Hidalgo St 3343, 78702 Austin",
+            "coordinates": [-97.70464, 30.25649, 0],
+            "engineType": "CE",
+            "exterior": "GOOD",
+            "fuel": 54,
+            "interior": "GOOD",
+            "name": "CK9 T333",
+            "smartPhoneRequired": false,
+            "vin": "WMEEJ3BA0AK418169"
+        }, {
+            "address": "S Pleasant Valley Rd 1233, 78741 Austin",
+            "coordinates": [-97.71785, 30.23986, 0],
+            "engineType": "CE",
+            "exterior": "GOOD",
+            "fuel": 100,
+            "interior": "GOOD",
+            "name": "CK9 T365",
+            "smartPhoneRequired": false,
+            "vin": "WMEEJ3BAXAK418079"
+        }, {
+            "address": "Sheringham Dr 2554, 78741 Austin",
+            "coordinates": [-97.72475, 30.23107, 0],
+            "engineType": "CE",
+            "exterior": "GOOD",
+            "fuel": 100,
+            "interior": "GOOD",
+            "name": "CK9 T359",
+            "smartPhoneRequired": false,
+            "vin": "WMEEJ3BAXAK416834"
+        }, {
+            "address": "Kramer Station - Brockton Dr",
+            "coordinates": [-97.71756, 30.39338, 0],
+            "engineType": "CE",
+            "exterior": "GOOD",
+            "fuel": 54,
+            "interior": "GOOD",
+            "name": "CK9 T308",
+            "smartPhoneRequired": false,
+            "vin": "WMEEJ3BA4AK416649"
+        }, {
+            "address": "Norwalk Ln 1420, 78703 Austin",
+            "coordinates": [-97.77194, 30.28936, 0],
+            "engineType": "CE",
+            "exterior": "GOOD",
+            "fuel": 100,
+            "interior": "GOOD",
+            "name": "CK9 T364",
+            "smartPhoneRequired": false,
+            "vin": "WMEEJ3BA9AK416615"
+        }, {
+            "address": "Shoal Creek Blvd 1479, 78701 Austin",
+            "coordinates": [-97.75004, 30.28063, 0],
+            "engineType": "CE",
+            "exterior": "GOOD",
+            "fuel": 66,
+            "interior": "GOOD",
+            "name": "CK9 T295",
+            "smartPhoneRequired": false,
+            "vin": "WMEEJ3BA6AK416751"
+        }, {
+            "address": "Romeria Dr 1115, 78757 Austin",
+            "coordinates": [-97.72669, 30.33154, 0],
+            "engineType": "CE",
+            "exterior": "GOOD",
+            "fuel": 63,
+            "interior": "GOOD",
+            "name": "CK9 T395",
+            "smartPhoneRequired": false,
+            "vin": "WMEEJ3BA4AK418157"
+        }, {
+            "address": "Juliet St 1435, 78704 Austin",
+            "coordinates": [-97.76141, 30.25823, 0],
+            "engineType": "CE",
+            "exterior": "GOOD",
+            "fuel": 84,
+            "interior": "GOOD",
+            "name": "CK9 T236",
+            "smartPhoneRequired": false,
+            "vin": "WMEEJ3BA2AK416892"
+        }, {
+            "address": "Post Oak St 700, 78704 Austin",
+            "coordinates": [-97.75247, 30.25742, 0],
+            "engineType": "CE",
+            "exterior": "GOOD",
+            "fuel": 42,
+            "interior": "GOOD",
+            "name": "CK9 T318",
+            "smartPhoneRequired": false,
+            "vin": "WMEEJ3BA9AK418042"
+        }, {
+            "address": "W 30th St 877, 78705 Austin",
+            "coordinates": [-97.74535, 30.29832, 0],
+            "engineType": "CE",
+            "exterior": "GOOD",
+            "fuel": 93,
+            "interior": "GOOD",
+            "name": "CK9 T265",
+            "smartPhoneRequired": false,
+            "vin": "WMEEJ3BA6AK418029"
+        }, {
+            "address": "Dawson Rd 752, 78704 Austin",
+            "coordinates": [-97.75634, 30.25816, 0],
+            "engineType": "CE",
+            "exterior": "UNACCEPTABLE",
+            "fuel": 42,
+            "interior": "GOOD",
+            "name": "CK9 T288",
+            "smartPhoneRequired": false,
+            "vin": "WMEEJ3BA4AK417350"
+        }, {
+            "address": "San Marcos St 96, 78702 Austin",
+            "coordinates": [-97.73479, 30.26031, 0],
+            "engineType": "CE",
+            "exterior": "GOOD",
+            "fuel": 42,
+            "interior": "GOOD",
+            "name": "CK9 T285",
+            "smartPhoneRequired": false,
+            "vin": "WMEEJ3BA6AK417916"
+        }, {
+            "address": "E 3rd St 1242, 78702 Austin",
+            "coordinates": [-97.73131, 30.26159, 0],
+            "engineType": "CE",
+            "exterior": "GOOD",
+            "fuel": 100,
+            "interior": "GOOD",
+            "name": "CK9 T391",
+            "smartPhoneRequired": false,
+            "vin": "WMEEJ3BA4AK416439"
+        }, {
+            "address": "Gibson St W 991, 78704 Austin",
+            "coordinates": [-97.75857, 30.2535, 0],
+            "engineType": "CE",
+            "exterior": "GOOD",
+            "fuel": 100,
+            "interior": "GOOD",
+            "name": "CK9 T361",
+            "smartPhoneRequired": false,
+            "vin": "WMEEJ3BA1AK416964"
+        }, {
+            "address": "Elmont Dr 2216, 78741 Austin",
+            "coordinates": [-97.72369, 30.24226, 0],
+            "engineType": "CE",
+            "exterior": "GOOD",
+            "fuel": 90,
+            "interior": "GOOD",
+            "name": "CK9 T246",
+            "smartPhoneRequired": false,
+            "vin": "WMEEJ3BA1AK417225"
+        }, {
+            "address": "Timbercreek Apartments",
+            "coordinates": [-97.75159, 30.25617, 0],
+            "engineType": "CE",
+            "exterior": "GOOD",
+            "fuel": 96,
+            "interior": "GOOD",
+            "name": "CK9 T249",
+            "smartPhoneRequired": false,
+            "vin": "WMEEJ3BA5AK417258"
+        }, {
+            "address": "Cromwell Cir 2453, 78741 Austin",
+            "coordinates": [-97.72103, 30.22608, 0],
+            "engineType": "CE",
+            "exterior": "GOOD",
+            "fuel": 100,
+            "interior": "UNACCEPTABLE",
+            "name": "CK9 T373",
+            "smartPhoneRequired": false,
+            "vin": "WMEEJ3BA2AK416469"
+        }, {
+            "address": "Highland Business Center",
+            "coordinates": [-97.71235, 30.32373, 0],
+            "engineType": "CE",
+            "exterior": "GOOD",
+            "fuel": 33,
+            "interior": "GOOD",
+            "name": "CK9 T263",
+            "smartPhoneRequired": false,
+            "vin": "WMEEJ3BA4AK417509"
+        }, {
+            "address": "Highland Business Center",
+            "coordinates": [-97.71235, 30.32373, 0],
+            "engineType": "CE",
+            "exterior": "GOOD",
+            "fuel": 78,
+            "interior": "GOOD",
+            "name": "CK9 T387",
+            "smartPhoneRequired": false,
+            "vin": "WMEEJ3BA2AK417301"
+        }, {
+            "address": "Rowena St 4758, 78751 Austin",
+            "coordinates": [-97.72506, 30.31245, 0],
+            "engineType": "CE",
+            "exterior": "GOOD",
+            "fuel": 78,
+            "interior": "GOOD",
+            "name": "CK9 T259",
+            "smartPhoneRequired": false,
+            "vin": "WMEEJ3BA8AK418047"
+        }, {
+            "address": "Oakmont Blvd 3724, 78731 Austin",
+            "coordinates": [-97.75394, 30.3107, 0],
+            "engineType": "CE",
+            "exterior": "GOOD",
+            "fuel": 100,
+            "interior": "GOOD",
+            "name": "CK9 T322",
+            "smartPhoneRequired": false,
+            "vin": "WMEEJ3BA4AK417980"
+        }, {
+            "address": "Barton Skwy 2946, 78746 Austin",
+            "coordinates": [-97.78882, 30.26109, 0],
+            "engineType": "CE",
+            "exterior": "GOOD",
+            "fuel": 39,
+            "interior": "GOOD",
+            "name": "CK9 T252",
+            "smartPhoneRequired": false,
+            "vin": "WMEEJ3BA5AK417342"
+        }, {
+            "address": "Riverside Farms Rd 2254, 78741 Austin",
+            "coordinates": [-97.71701, 30.22665, 0],
+            "engineType": "CE",
+            "exterior": "GOOD",
+            "fuel": 81,
+            "interior": "GOOD",
+            "name": "CK9 T414",
+            "smartPhoneRequired": false,
+            "vin": "WMEEJ3BA7AK417164"
+        }, {
+            "address": "Campbell St 564, 78703 Austin",
+            "coordinates": [-97.76446, 30.2755, 0],
+            "engineType": "CE",
+            "exterior": "GOOD",
+            "fuel": 93,
+            "interior": "GOOD",
+            "name": "CK9 T325",
+            "smartPhoneRequired": false,
+            "vin": "WMEEJ3BA7AK417908"
+        }, {
+            "address": "Madison Ave 1787, 78757 Austin",
+            "coordinates": [-97.72887, 30.3459, 0],
+            "engineType": "CE",
+            "exterior": "GOOD",
+            "fuel": 81,
+            "interior": "GOOD",
+            "name": "CK9 T411",
+            "smartPhoneRequired": false,
+            "vin": "WMEEJ3BA9AK417084"
+        }, {
+            "address": "Avenue F 4918, 78751 Austin",
+            "coordinates": [-97.72371, 30.31358, 0],
+            "engineType": "CE",
+            "exterior": "GOOD",
+            "fuel": 42,
+            "interior": "GOOD",
+            "name": "CK9 T377",
+            "smartPhoneRequired": false,
+            "vin": "WMEEJ3BA9AK416453"
+        }, {
+            "address": "Wood Hollow Dr 7482, 78731 Austin",
+            "coordinates": [-97.75031, 30.35961, 0],
+            "engineType": "CE",
+            "exterior": "GOOD",
+            "fuel": 100,
+            "interior": "GOOD",
+            "name": "CK9 T342",
+            "smartPhoneRequired": false,
+            "vin": "WMEEJ3BAXAK417448"
+        }, {
+            "address": "Adams Ave 5686, 78756 Austin",
+            "coordinates": [-97.73911, 30.33128, 0],
+            "engineType": "CE",
+            "exterior": "GOOD",
+            "fuel": 60,
+            "interior": "GOOD",
+            "name": "CK9 T232",
+            "smartPhoneRequired": false,
+            "vin": "WMEEJ3BA3AK418053"
+        }, {
+            "address": "Baylor St 1124, 78703 Austin",
+            "coordinates": [-97.75282, 30.27651, 0],
+            "engineType": "CE",
+            "exterior": "GOOD",
+            "fuel": 36,
+            "interior": "GOOD",
+            "name": "CK9 T303",
+            "smartPhoneRequired": false,
+            "vin": "WMEEJ3BA1AK417015"
+        }, {
+            "address": "Kirkwood Rd 1351, 78722 Austin",
+            "coordinates": [-97.71592, 30.29551, 0],
+            "engineType": "CE",
+            "exterior": "GOOD",
+            "fuel": 84,
+            "interior": "GOOD",
+            "name": "CK9 T326",
+            "smartPhoneRequired": false,
+            "vin": "WMEEJ3BA6AK417317"
+        }, {
+            "address": "Avenue H 4174, 78751 Austin",
+            "coordinates": [-97.72787, 30.30369, 0],
+            "engineType": "CE",
+            "exterior": "GOOD",
+            "fuel": 57,
+            "interior": "GOOD",
+            "name": "CK9 T228",
+            "smartPhoneRequired": false,
+            "vin": "WMEEJ3BA7AK416502"
+        }, {
+            "address": "Willow St 1627, 78702 Austin",
+            "coordinates": [-97.72852, 30.2574, 0],
+            "engineType": "CE",
+            "exterior": "GOOD",
+            "fuel": 60,
+            "interior": "GOOD",
+            "name": "CK9 T279",
+            "smartPhoneRequired": false,
+            "vin": "WMEEJ3BA8AK416959"
+        }, {
+            "address": "Caswell Ave 5074, 78751 Austin",
+            "coordinates": [-97.71659, 30.31231, 0],
+            "engineType": "CE",
+            "exterior": "GOOD",
+            "fuel": 30,
+            "interior": "GOOD",
+            "name": "CK9 T237",
+            "smartPhoneRequired": false,
+            "vin": "WMEEJ3BA2AK417217"
+        }, {
+            "address": "Lydia St 1148, 78702 Austin",
+            "coordinates": [-97.72765, 30.26901, 0],
+            "engineType": "CE",
+            "exterior": "GOOD",
+            "fuel": 21,
+            "interior": "GOOD",
+            "name": "CK9 T294",
+            "smartPhoneRequired": false,
+            "vin": "WMEEJ3BA5AK417065"
+        }, {
+            "address": "Southport Dr 1402, 78704 Austin",
+            "coordinates": [-97.77808, 30.23283, 0],
+            "engineType": "CE",
+            "exterior": "GOOD",
+            "fuel": 45,
+            "interior": "GOOD",
+            "name": "CK9 T315",
+            "smartPhoneRequired": false,
+            "vin": "WMEEJ3BA4AK417848"
+        }, {
+            "address": "Adam L Chapa Sr St 138, 78702 Austin",
+            "coordinates": [-97.72344, 30.25715, 0],
+            "engineType": "CE",
+            "exterior": "GOOD",
+            "fuel": 51,
+            "interior": "GOOD",
+            "name": "CK9 T281",
+            "smartPhoneRequired": false,
+            "vin": "WMEEJ3BA4AK417428"
+        }, {
+            "address": "Cloverleaf Dr 1729, 78723 Austin",
+            "coordinates": [-97.69526, 30.30906, 0],
+            "engineType": "CE",
+            "exterior": "UNACCEPTABLE",
+            "fuel": 100,
+            "interior": "GOOD",
+            "name": "CK9 T306",
+            "smartPhoneRequired": false,
+            "vin": "WMEEJ3BA1AK417872"
+        }, {
+            "address": "Shoal Crest Ave 2886, 78705 Austin",
+            "coordinates": [-97.74781, 30.29757, 0],
+            "engineType": "CE",
+            "exterior": "GOOD",
+            "fuel": 100,
+            "interior": "GOOD",
+            "name": "CK9 T234",
+            "smartPhoneRequired": false,
+            "vin": "WMEEJ3BA2AK417590"
+        }, {
+            "address": "Avenue F 5036, 78751 Austin",
+            "coordinates": [-97.72259, 30.31511, 0],
+            "engineType": "CE",
+            "exterior": "GOOD",
+            "fuel": 100,
+            "interior": "GOOD",
+            "name": "CK9 T291",
+            "smartPhoneRequired": false,
+            "vin": "WMEEJ3BA3AK417713"
+        }, {
+            "address": "St. Edward's Parking",
+            "coordinates": [-97.7513, 30.22659, 0],
+            "engineType": "CE",
+            "exterior": "GOOD",
+            "fuel": 78,
+            "interior": "GOOD",
+            "name": "CK9 T226",
+            "smartPhoneRequired": false,
+            "vin": "WMEEJ3BA9AK417635"
+        }, {
+            "address": "Hardy Dr 7870, 78757 Austin",
+            "coordinates": [-97.72732, 30.35378, 0],
+            "engineType": "CE",
+            "exterior": "GOOD",
+            "fuel": 100,
+            "interior": "GOOD",
+            "name": "CK9 T362",
+            "smartPhoneRequired": false,
+            "vin": "WMEEJ3BA7AK417651"
+        }, {
+            "address": "Euclid Ave 2537, 78704 Austin",
+            "coordinates": [-97.75643, 30.23741, 0],
+            "engineType": "CE",
+            "exterior": "GOOD",
+            "fuel": 100,
+            "interior": "GOOD",
+            "name": "CK9 T388",
+            "smartPhoneRequired": false,
+            "vin": "WMEEJ3BA8AK418226"
+        }, {
+            "address": "Crockett St 285, 78704 Austin",
+            "coordinates": [-97.75398, 30.24371, 0],
+            "engineType": "CE",
+            "exterior": "GOOD",
+            "fuel": 30,
+            "interior": "GOOD",
+            "name": "CK9 T272",
+            "smartPhoneRequired": false,
+            "vin": "WMEEJ3BA7AK418539"
+        }, {
+            "address": "Shoal Creek Blvd 7603, 78757 Austin",
+            "coordinates": [-97.74023, 30.35525, 0],
+            "engineType": "CE",
+            "exterior": "GOOD",
+            "fuel": 100,
+            "interior": "GOOD",
+            "name": "CK9 T245",
+            "smartPhoneRequired": false,
+            "vin": "WMEEJ3BA4AK418112"
+        }, {
+            "address": "Nueces St 730, 78701 Austin",
+            "coordinates": [-97.74803, 30.2709, 0],
+            "engineType": "CE",
+            "exterior": "GOOD",
+            "fuel": 48,
+            "interior": "GOOD",
+            "name": "CK9 T406",
+            "smartPhoneRequired": false,
+            "vin": "WMEEJ3BA6AK418189"
+        }, {
+            "address": "Crestview Station",
+            "coordinates": [-97.71947, 30.33886, 0],
+            "engineType": "CE",
+            "exterior": "GOOD",
+            "fuel": 93,
+            "interior": "GOOD",
+            "name": "CK9 T250",
+            "smartPhoneRequired": false,
+            "vin": "WMEEJ3BA5AK417888"
+        }, {
+            "address": "E 53 1/2 St 917, 78751 Austin",
+            "coordinates": [-97.71215, 30.31382, 0],
+            "engineType": "CE",
+            "exterior": "GOOD",
+            "fuel": 100,
+            "interior": "GOOD",
+            "name": "CK9 T293",
+            "smartPhoneRequired": false,
+            "vin": "WMEEJ3BA0AK417099"
+        }, {
+            "address": "Cumberland Rd 206, 78704 Austin",
+            "coordinates": [-97.75775, 30.23626, 0],
+            "engineType": "CE",
+            "exterior": "GOOD",
+            "fuel": 30,
+            "interior": "GOOD",
+            "name": "CK9 T264",
+            "smartPhoneRequired": false,
+            "vin": "WMEEJ3BAXAK417420"
+        }, {
+            "address": "E Stassney Ln 484, 78745 Austin",
+            "coordinates": [-97.77126, 30.2028, 0],
+            "engineType": "CE",
+            "exterior": "GOOD",
+            "fuel": 54,
+            "interior": "GOOD",
+            "name": "CK9 T346",
+            "smartPhoneRequired": false,
+            "vin": "WMEEJ3BA9AK417778"
+        }, {
+            "address": "Waterloo Trl 1670, 78704 Austin",
+            "coordinates": [-97.77494, 30.24123, 0],
+            "engineType": "CE",
+            "exterior": "GOOD",
+            "fuel": 51,
+            "interior": "GOOD",
+            "name": "CK9 T338",
+            "smartPhoneRequired": false,
+            "vin": "WMEEJ3BA9AK417750"
+        }, {
+            "address": "Louise Ln 5671, 78757 Austin",
+            "coordinates": [-97.75248, 30.33583, 0],
+            "engineType": "CE",
+            "exterior": "UNACCEPTABLE",
+            "fuel": 100,
+            "interior": "GOOD",
+            "name": "CK9 T301",
+            "smartPhoneRequired": false,
+            "vin": "WMEEJ3BA9AK417831"
+        }, {
+            "address": "Eastside Dr 2444, 78704 Austin",
+            "coordinates": [-97.74931, 30.23591, 0],
+            "engineType": "CE",
+            "exterior": "GOOD",
+            "fuel": 75,
+            "interior": "GOOD",
+            "name": "CK9 T347",
+            "smartPhoneRequired": false,
+            "vin": "WMEEJ3BA4AK417607"
+        }, {
+            "address": "E 13th St 1370, 78702 Austin",
+            "coordinates": [-97.7256, 30.27391, 0],
+            "engineType": "CE",
+            "exterior": "GOOD",
+            "fuel": 48,
+            "interior": "GOOD",
+            "name": "CK9 T383",
+            "smartPhoneRequired": false,
+            "vin": "WMEEJ3BAXAK417868"
+        }, {
+            "address": "N Lamar Blvd 6026, 78752 Austin",
+            "coordinates": [-97.72527, 30.32916, 0],
+            "engineType": "CE",
+            "exterior": "GOOD",
+            "fuel": 90,
+            "interior": "GOOD",
+            "name": "CK9 T251",
+            "smartPhoneRequired": false,
+            "vin": "WMEEJ3BA5AK417860"
+        }, {
+            "address": "Forest Mesa Dr 8156, 78759 Austin",
+            "coordinates": [-97.74708, 30.37059, 0],
+            "engineType": "CE",
+            "exterior": "GOOD",
+            "fuel": 78,
+            "interior": "GOOD",
+            "name": "CK9 T260",
+            "smartPhoneRequired": false,
+            "vin": "WMEEJ3BA8AK418176"
+        }, {
+            "address": "Robert T Martinez Jr St 44, 78702 Austin",
+            "coordinates": [-97.72307, 30.25079, 0],
+            "engineType": "CE",
+            "exterior": "GOOD",
+            "fuel": 72,
+            "interior": "GOOD",
+            "name": "CK9 T360",
+            "smartPhoneRequired": false,
+            "vin": "WMEEJ3BA0AK418124"
+        }, {
+            "address": "Nueces St 774, 78701 Austin",
+            "coordinates": [-97.74787, 30.27129, 0],
+            "engineType": "CE",
+            "exterior": "GOOD",
+            "fuel": 100,
+            "interior": "GOOD",
+            "name": "CK9 T305",
+            "smartPhoneRequired": false,
+            "vin": "WMEEJ3BAXAK417045"
+        }, {
+            "address": "Run of the Oaks St 3952, 78704 Austin",
+            "coordinates": [-97.77913, 30.23062, 0],
+            "engineType": "CE",
+            "exterior": "GOOD",
+            "fuel": 100,
+            "interior": "GOOD",
+            "name": "CK9 T225",
+            "smartPhoneRequired": false,
+            "vin": "WMEEJ3BAXAK417031"
+        }, {
+            "address": "11th and Red River",
+            "coordinates": [-97.73522, 30.27165, 0],
+            "engineType": "CE",
+            "exterior": "GOOD",
+            "fuel": 100,
+            "interior": "GOOD",
+            "name": "CK9 T313",
+            "smartPhoneRequired": false,
+            "vin": "WMEEJ3BAXAK417367"
+        }, {
+            "address": "Trailside Dr 2519, 78704 Austin",
+            "coordinates": [-97.77591, 30.26051, 0],
+            "engineType": "CE",
+            "exterior": "GOOD",
+            "fuel": 87,
+            "interior": "GOOD",
+            "name": "CK9 T410",
+            "smartPhoneRequired": false,
+            "vin": "WMEEJ3BA8AK417156"
+        }, {
+            "address": "Theatre Pass, 78704 Austin",
+            "coordinates": [-97.75133, 30.22776, 0],
+            "engineType": "CE",
+            "exterior": "GOOD",
+            "fuel": 87,
+            "interior": "GOOD",
+            "name": "CK9 T343",
+            "smartPhoneRequired": false,
+            "vin": "WMEEJ3BA5AK417762"
+        }, {
+            "address": "Garden St 1453, 78702 Austin",
+            "coordinates": [-97.73113, 30.25664, 0],
+            "engineType": "CE",
+            "exterior": "GOOD",
+            "fuel": 30,
+            "interior": "GOOD",
+            "name": "CK9 T330",
+            "smartPhoneRequired": false,
+            "vin": "WMEEJ3BA6AK417267"
+        }, {
+            "address": "W 5th St 1618, 78703 Austin",
+            "coordinates": [-97.76431, 30.27459, 0],
+            "engineType": "CE",
+            "exterior": "GOOD",
+            "fuel": 96,
+            "interior": "GOOD",
+            "name": "CK9 T339",
+            "smartPhoneRequired": false,
+            "vin": "WMEEJ3BA0AK417569"
+        }, {
+            "address": "Elmont Dr 2212, 78741 Austin",
+            "coordinates": [-97.72384, 30.24233, 0],
+            "engineType": "CE",
+            "exterior": "GOOD",
+            "fuel": 42,
+            "interior": "GOOD",
+            "name": "CK9 T310",
+            "smartPhoneRequired": false,
+            "vin": "WMEEJ3BAXAK417742"
+        }, {
+            "address": "Wickersham Ln 2273, 78741 Austin",
+            "coordinates": [-97.72136, 30.22834, 0],
+            "engineType": "CE",
+            "exterior": "GOOD",
+            "fuel": 57,
+            "interior": "GOOD",
+            "name": "CK9 T367",
+            "smartPhoneRequired": false,
+            "vin": "WMEEJ3BAXAK417675"
+        }, {
+            "address": "Buffalo Pass 5498, 78745 Austin",
+            "coordinates": [-97.80345, 30.21969, 0],
+            "engineType": "CE",
+            "exterior": "GOOD",
+            "fuel": 51,
+            "interior": "GOOD",
+            "name": "CK9 T238",
+            "smartPhoneRequired": false,
+            "vin": "WMEEJ3BA2AK417542"
+        }, {
+            "address": "Audrey Ct 1034, 78704 Austin",
+            "coordinates": [-97.77219, 30.23263, 0],
+            "engineType": "CE",
+            "exterior": "GOOD",
+            "fuel": 100,
+            "interior": "GOOD",
+            "name": "CK9 T378",
+            "smartPhoneRequired": false,
+            "vin": "WMEEJ3BA5AK418202"
+        }, {
+            "address": "W 9th St 1415, 78703 Austin",
+            "coordinates": [-97.75856, 30.27654, 0],
+            "engineType": "CE",
+            "exterior": "GOOD",
+            "fuel": 100,
+            "interior": "GOOD",
+            "name": "CK9 T348",
+            "smartPhoneRequired": false,
+            "vin": "WMEEJ3BA8AK417738"
+        }, {
+            "address": "Llano St 70, 78702 Austin",
+            "coordinates": [-97.71468, 30.25237, 0],
+            "engineType": "CE",
+            "exterior": "GOOD",
+            "fuel": 42,
+            "interior": "GOOD",
+            "name": "CK9 T317",
+            "smartPhoneRequired": false,
+            "vin": "WMEEJ3BA2AK417721"
+        }, {
+            "address": "Kirkwood Rd 1300, 78722 Austin",
+            "coordinates": [-97.71607, 30.29587, 0],
+            "engineType": "CE",
+            "exterior": "GOOD",
+            "fuel": 100,
+            "interior": "GOOD",
+            "name": "CK9 T271",
+            "smartPhoneRequired": false,
+            "vin": "WMEEJ3BA4AK418675"
+        }, {
+            "address": "W Ben White Blvd 2008, 78704 Austin",
+            "coordinates": [-97.78819, 30.23065, 0],
+            "engineType": "CE",
+            "exterior": "GOOD",
+            "fuel": 100,
+            "interior": "GOOD",
+            "name": "CK9 T337",
+            "smartPhoneRequired": false,
+            "vin": "WMEEJ3BA6AK417091"
+        }, {
+            "address": "W 22nd St 1398, 78705 Austin",
+            "coordinates": [-97.75233, 30.2858, 0],
+            "engineType": "CE",
+            "exterior": "GOOD",
+            "fuel": 100,
+            "interior": "GOOD",
+            "name": "CK9 T336",
+            "smartPhoneRequired": false,
+            "vin": "WMEEJ3BA1AK417659"
+        }, {
+            "address": "E 2nd St 1957, 78702 Austin",
+            "coordinates": [-97.72362, 30.25777, 0],
+            "engineType": "CE",
+            "exterior": "GOOD",
+            "fuel": 100,
+            "interior": "GOOD",
+            "name": "CK9 T401",
+            "smartPhoneRequired": false,
+            "vin": "WMEEJ3BA9AK416999"
+        }, {
+            "address": "Burnet Ln 6510, 78757 Austin",
+            "coordinates": [-97.73844, 30.34011, 0],
+            "engineType": "CE",
+            "exterior": "UNACCEPTABLE",
+            "fuel": 90,
+            "interior": "UNACCEPTABLE",
+            "name": "CK9 T283",
+            "smartPhoneRequired": false,
+            "vin": "WMEEJ3BA3AK417209"
+        }, {
+            "address": "Medina St 170, 78702 Austin",
+            "coordinates": [-97.73335, 30.26095, 0],
+            "engineType": "CE",
+            "exterior": "GOOD",
+            "fuel": 100,
+            "interior": "UNACCEPTABLE",
+            "name": "CK9 T304",
+            "smartPhoneRequired": false,
+            "vin": "WMEEJ3BA8AK417836"
+        }, {
+            "address": "W 49th St 1257, 78756 Austin",
+            "coordinates": [-97.7374, 30.319, 0],
+            "engineType": "CE",
+            "exterior": "GOOD",
+            "fuel": 100,
+            "interior": "GOOD",
+            "name": "CK9 T255",
+            "smartPhoneRequired": false,
+            "vin": "WMEEJ3BA2AK417878"
+        }, {
+            "address": "Creekline Dr 5086, 78745 Austin",
+            "coordinates": [-97.77637, 30.2123, 0],
+            "engineType": "CE",
+            "exterior": "GOOD",
+            "fuel": 33,
+            "interior": "UNACCEPTABLE",
+            "name": "CK9 T230",
+            "smartPhoneRequired": false,
+            "vin": "WMEEJ3BA7AK417598"
+        }, {
+            "address": "Northwestern Ave 1144, 78702 Austin",
+            "coordinates": [-97.7158, 30.26856, 0],
+            "engineType": "CE",
+            "exterior": "GOOD",
+            "fuel": 63,
+            "interior": "GOOD",
+            "name": "CK9 T402",
+            "smartPhoneRequired": false,
+            "vin": "WMEEJ3BA9AK417683"
+        }, {
+            "address": "Hemlock Ave 3300, 78722 Austin",
+            "coordinates": [-97.71519, 30.28755, 0],
+            "engineType": "CE",
+            "exterior": "GOOD",
+            "fuel": 69,
+            "interior": "GOOD",
+            "name": "CK9 T314",
+            "smartPhoneRequired": false,
+            "vin": "WMEEJ3BA2AK417766"
+        }, {
+            "address": "E 52nd St 1381, 78723 Austin",
+            "coordinates": [-97.70486, 30.30825, 0],
+            "engineType": "CE",
+            "exterior": "GOOD",
+            "fuel": 57,
+            "interior": "GOOD",
+            "name": "CK9 T227",
+            "smartPhoneRequired": false,
+            "vin": "WMEEJ3BA4AK417770"
+        }, {
+            "address": "Wood Hollow Dr 7234, 78731 Austin",
+            "coordinates": [-97.7516, 30.35599, 0],
+            "engineType": "CE",
+            "exterior": "GOOD",
+            "fuel": 84,
+            "interior": "GOOD",
+            "name": "CK9 T334",
+            "smartPhoneRequired": false,
+            "vin": "WMEEJ3BA9AK418137"
+        }, {
+            "address": "Lyons Rd 2868, 78702 Austin",
+            "coordinates": [-97.70696, 30.26367, 0],
+            "engineType": "CE",
+            "exterior": "GOOD",
+            "fuel": 72,
+            "interior": "GOOD",
+            "name": "CK9 T292",
+            "smartPhoneRequired": false,
+            "vin": "WMEEJ3BA0AK417619"
+        }, {
+            "address": "Wilson St 2604, 78704 Austin",
+            "coordinates": [-97.75858, 30.23822, 0],
+            "engineType": "CE",
+            "exterior": "GOOD",
+            "fuel": 96,
+            "interior": "GOOD",
+            "name": "CK9 T368",
+            "smartPhoneRequired": false,
+            "vin": "WMEEJ3BAXAK417627"
+        }, {
+            "address": "LCRA - Trade Center Dr",
+            "coordinates": [-97.71414, 30.20749, 0],
+            "engineType": "CE",
+            "exterior": "GOOD",
+            "fuel": 48,
+            "interior": "GOOD",
+            "name": "BZ6 B664",
+            "smartPhoneRequired": false,
+            "vin": "WMEEJ3BA9AK374737"
+        }, {
+            "address": "NW Recreation Center Charging Station",
+            "charging": false,
+            "coordinates": [-97.75133, 30.33397, 0],
+            "engineType": "ED",
+            "exterior": "GOOD",
+            "fuel": 96,
+            "interior": "GOOD",
+            "name": "BCF 5535",
+            "smartPhoneRequired": false,
+            "vin": "WMEEJ9BA7BK476722"
+        }, {
+            "address": "St Johns Cir 7038, 78757 Austin",
+            "charging": false,
+            "coordinates": [-97.72099, 30.33968, 0],
+            "engineType": "ED",
+            "exterior": "GOOD",
+            "fuel": 34,
+            "interior": "GOOD",
+            "name": "BCF 5538",
+            "smartPhoneRequired": false,
+            "vin": "WMEEJ9BA5BK431987"
+        }, {
+            "address": "Willow Springs Rd 3566, 78704 Austin",
+            "charging": false,
+            "coordinates": [-97.758, 30.22648, 0],
+            "engineType": "ED",
+            "exterior": "GOOD",
+            "fuel": 72,
+            "interior": "GOOD",
+            "name": "BCF 5581",
+            "smartPhoneRequired": false,
+            "vin": "WMEEJ9BA3BK487362"
+        }, {
+            "address": "Elmont Dr 4515, 78741 Austin",
+            "charging": false,
+            "coordinates": [-97.71817, 30.23805, 0],
+            "engineType": "ED",
+            "exterior": "GOOD",
+            "fuel": 41,
+            "interior": "GOOD",
+            "name": "BCF 5583",
+            "smartPhoneRequired": false,
+            "vin": "WMEEJ9BA7BK471388"
+        }, {
+            "address": "Summer Stone Dr 1587, 78704 Austin",
+            "charging": false,
+            "coordinates": [-97.78034, 30.23018, 0],
+            "engineType": "ED",
+            "exterior": "GOOD",
+            "fuel": 33,
+            "interior": "GOOD",
+            "name": "BCF 5587",
+            "smartPhoneRequired": false,
+            "vin": "WMEEJ9BA6BK447857"
+        }, {
+            "address": "Esperanza Xing 3092, 78758 Austin",
+            "coordinates": [-97.72217, 30.39931, 0],
+            "engineType": "CE",
+            "exterior": "GOOD",
+            "fuel": 24,
+            "interior": "GOOD",
+            "name": "CSF 9191",
+            "smartPhoneRequired": false,
+            "vin": "WMEEJ3BA5EK734706"
+        }, {
+            "address": "Clara St 56, 78702 Austin",
+            "coordinates": [-97.71831, 30.25349, 0],
+            "engineType": "CE",
+            "exterior": "GOOD",
+            "fuel": 87,
+            "interior": "GOOD",
+            "name": "CSF 8927",
+            "smartPhoneRequired": false,
+            "vin": "WMEEJ3BA1EK734332"
+        }, {
+            "address": "Nelray Blvd 624, 78751 Austin",
+            "coordinates": [-97.72608, 30.32191, 0],
+            "engineType": "CE",
+            "exterior": "GOOD",
+            "fuel": 51,
+            "interior": "GOOD",
+            "name": "CSF 9067",
+            "smartPhoneRequired": false,
+            "vin": "WMEEJ3BA5EK734835"
+        }, {
+            "address": "Baylor St 332, 78703 Austin",
+            "coordinates": [-97.75654, 30.26991, 0],
+            "engineType": "CE",
+            "exterior": "GOOD",
+            "fuel": 33,
+            "interior": "GOOD",
+            "name": "CSG 1540",
+            "smartPhoneRequired": false,
+            "vin": "WMEEJ3BA8EK733842"
+        }, {
+            "address": "Rogge Ln 3537, 78723 Austin",
+            "coordinates": [-97.67445, 30.30118, 0],
+            "engineType": "CE",
+            "exterior": "GOOD",
+            "fuel": 90,
+            "interior": "GOOD",
+            "name": "CSF 8931",
+            "smartPhoneRequired": false,
+            "vin": "WMEEJ3BA9EK733784"
+        }, {
+            "address": "Anken Dr 2545, 78741 Austin",
+            "coordinates": [-97.72702, 30.23003, 0],
+            "engineType": "CE",
+            "exterior": "GOOD",
+            "fuel": 45,
+            "interior": "GOOD",
+            "name": "CSG 1518",
+            "smartPhoneRequired": false,
+            "vin": "WMEEJ3BA3EK734896"
+        }, {
+            "address": "Waller St 780, 78702 Austin",
+            "coordinates": [-97.73007, 30.26621, 0],
+            "engineType": "CE",
+            "exterior": "UNACCEPTABLE",
+            "fuel": 48,
+            "interior": "UNACCEPTABLE",
+            "name": "CSG 1543",
+            "smartPhoneRequired": false,
+            "vin": "WMEEJ3BA7EK734643"
+        }, {
+            "address": "University Estates",
+            "coordinates": [-97.7134, 30.2377, 0],
+            "engineType": "CE",
+            "exterior": "GOOD",
+            "fuel": 45,
+            "interior": "GOOD",
+            "name": "CSG 1541",
+            "smartPhoneRequired": false,
+            "vin": "WMEEJ3BA7EK734657"
+        }, {
+            "address": "Maplewood Ave 3964, 78722 Austin",
+            "coordinates": [-97.71337, 30.29404, 0],
+            "engineType": "CE",
+            "exterior": "GOOD",
+            "fuel": 100,
+            "interior": "GOOD",
+            "name": "CSF 8932",
+            "smartPhoneRequired": false,
+            "vin": "WMEEJ3BA5EK734785"
+        }, {
+            "address": "W 9th St 861, 78703 Austin",
+            "coordinates": [-97.7508, 30.27334, 0],
+            "engineType": "CE",
+            "exterior": "GOOD",
+            "fuel": 69,
+            "interior": "GOOD",
+            "name": "CSF 9072",
+            "smartPhoneRequired": false,
+            "vin": "WMEEJ3BA5EK734575"
+        }, {
+            "address": "Leslie Ave 4358, 78721 Austin",
+            "coordinates": [-97.68767, 30.28246, 0],
+            "engineType": "CE",
+            "exterior": "GOOD",
+            "fuel": 69,
+            "interior": "GOOD",
+            "name": "CSG 1538",
+            "smartPhoneRequired": false,
+            "vin": "WMEEJ3BAXEK733986"
+        }, {
+            "address": "Oakmont Blvd 3724, 78731 Austin",
+            "coordinates": [-97.75389, 30.31071, 0],
+            "engineType": "CE",
+            "exterior": "GOOD",
+            "fuel": 100,
+            "interior": "GOOD",
+            "name": "CSF 9065",
+            "smartPhoneRequired": false,
+            "vin": "WMEEJ3BA0EK734533"
+        }, {
+            "address": "Gate Tree Ln 573, 78745 Austin",
+            "coordinates": [-97.78011, 30.20978, 0],
+            "engineType": "CE",
+            "exterior": "GOOD",
+            "fuel": 57,
+            "interior": "GOOD",
+            "name": "CSG 2237",
+            "smartPhoneRequired": false,
+            "vin": "WMEEJ3BA0EK736105"
+        }, {
+            "address": "Crossing Pl 1327, 78741 Austin",
+            "coordinates": [-97.71399, 30.23629, 0],
+            "engineType": "CE",
+            "exterior": "GOOD",
+            "fuel": 57,
+            "interior": "GOOD",
+            "name": "CSG 2235",
+            "smartPhoneRequired": false,
+            "vin": "WMEEJ3BA2EK734825"
+        }, {
+            "address": "Willow Hill Dr 2404, 78741 Austin",
+            "coordinates": [-97.72593, 30.23373, 0],
+            "engineType": "CE",
+            "exterior": "GOOD",
+            "fuel": 54,
+            "interior": "GOOD",
+            "name": "CSG 1520",
+            "smartPhoneRequired": false,
+            "vin": "WMEEJ3BA2EK735456"
+        }, {
+            "address": "E 2nd St 2536, 78702 Austin",
+            "coordinates": [-97.71582, 30.25513, 0],
+            "engineType": "CE",
+            "exterior": "GOOD",
+            "fuel": 81,
+            "interior": "GOOD",
+            "name": "CSF 9063",
+            "smartPhoneRequired": false,
+            "vin": "WMEEJ3BA4EK733319"
+        }, {
+            "address": "Theatre Pass, 78704 Austin",
+            "coordinates": [-97.75173, 30.22752, 0],
+            "engineType": "CE",
+            "exterior": "UNACCEPTABLE",
+            "fuel": 100,
+            "interior": "UNACCEPTABLE",
+            "name": "CSF 8924",
+            "smartPhoneRequired": false,
+            "vin": "WMEEJ3BA1EK733228"
+        }, {
+            "address": "Robert T Martinez Jr St 62, 78702 Austin",
+            "coordinates": [-97.72227, 30.25242, 0],
+            "engineType": "CE",
+            "exterior": "GOOD",
+            "fuel": 100,
+            "interior": "GOOD",
+            "name": "CSG 1513",
+            "smartPhoneRequired": false,
+            "vin": "WMEEJ3BAXEK736693"
+        }, {
+            "address": "Fruth St 3046, 78705 Austin",
+            "coordinates": [-97.74093, 30.2964, 0],
+            "engineType": "CE",
+            "exterior": "GOOD",
+            "fuel": 100,
+            "interior": "GOOD",
+            "name": "CSF 9074",
+            "smartPhoneRequired": false,
+            "vin": "WMEEJ3BA8EK732979"
+        }, {
+            "address": "Hedgewood Dr 5236, 78745 Austin",
+            "coordinates": [-97.77474, 30.21069, 0],
+            "engineType": "CE",
+            "exterior": "GOOD",
+            "fuel": 100,
+            "interior": "GOOD",
+            "name": "CSG 1544",
+            "smartPhoneRequired": false,
+            "vin": "WMEEJ3BA6EK734861"
+        }, {
+            "address": "Durwood St 2599, 78704 Austin",
+            "coordinates": [-97.75939, 30.23862, 0],
+            "engineType": "CE",
+            "exterior": "GOOD",
+            "fuel": 100,
+            "interior": "GOOD",
+            "name": "CSF 8933",
+            "smartPhoneRequired": false,
+            "vin": "WMEEJ3BA9EK734790"
+        }, {
+            "address": "E 3rd St 1967, 78702 Austin",
+            "coordinates": [-97.72312, 30.2587, 0],
+            "engineType": "CE",
+            "exterior": "GOOD",
+            "fuel": 51,
+            "interior": "GOOD",
+            "name": "CSF 8919",
+            "smartPhoneRequired": false,
+            "vin": "WMEEJ3BA0EK733883"
+        }, {
+            "address": "Hank Ave 4536, 78745 Austin",
+            "coordinates": [-97.78112, 30.22234, 0],
+            "engineType": "CE",
+            "exterior": "GOOD",
+            "fuel": 42,
+            "interior": "GOOD",
+            "name": "CSF 8921",
+            "smartPhoneRequired": false,
+            "vin": "WMEEJ3BAXEK732899"
+        }, {
+            "address": "The LINK",
+            "coordinates": [-97.72344, 30.2389, 0],
+            "engineType": "CE",
+            "exterior": "GOOD",
+            "fuel": 54,
+            "interior": "GOOD",
+            "name": "CSG 1539",
+            "smartPhoneRequired": false,
+            "vin": "WMEEJ3BA5EK734494"
+        }, {
+            "address": "Gibson St W 669, 78704 Austin",
+            "coordinates": [-97.75486, 30.25186, 0],
+            "engineType": "CE",
+            "exterior": "GOOD",
+            "fuel": 72,
+            "interior": "GOOD",
+            "name": "CSF 8923",
+            "smartPhoneRequired": false,
+            "vin": "WMEEJ3BA0EK734600"
+        }, {
+            "address": "Wilson St 2604, 78704 Austin",
+            "coordinates": [-97.75862, 30.23822, 0],
+            "engineType": "CE",
+            "exterior": "GOOD",
+            "fuel": 33,
+            "interior": "GOOD",
+            "name": "CSF 8925",
+            "smartPhoneRequired": false,
+            "vin": "WMEEJ3BA6EK735329"
+        }, {
+            "address": "Winflo Dr 860, 78703 Austin",
+            "coordinates": [-97.75786, 30.27569, 0],
+            "engineType": "CE",
+            "exterior": "GOOD",
+            "fuel": 57,
+            "interior": "GOOD",
+            "name": "CSF 9200",
+            "smartPhoneRequired": false,
+            "vin": "WMEEJ3BA4EK734941"
+        }, {
+            "address": "E Riverside Dr 502, 78704 Austin",
+            "coordinates": [-97.74306, 30.25321, 0],
+            "engineType": "CE",
+            "exterior": "GOOD",
+            "fuel": 100,
+            "interior": "GOOD",
+            "name": "CSF 8922",
+            "smartPhoneRequired": false,
+            "vin": "WMEEJ3BA7EK734500"
+        }, {
+            "address": "Comal St 670, 78702 Austin",
+            "coordinates": [-97.72632, 30.26374, 0],
+            "engineType": "CE",
+            "exterior": "GOOD",
+            "fuel": 60,
+            "interior": "GOOD",
+            "name": "CSG 1542",
+            "smartPhoneRequired": false,
+            "vin": "WMEEJ3BA2EK733240"
+        }, {
+            "address": "Jessie St 468, 78704 Austin",
+            "coordinates": [-97.75977, 30.26191, 0],
+            "engineType": "CE",
+            "exterior": "GOOD",
+            "fuel": 57,
+            "interior": "GOOD",
+            "name": "CSF 9069",
+            "smartPhoneRequired": false,
+            "vin": "WMEEJ3BA7EK733766"
+        }, {
+            "address": "Braeswood Rd 333, 78704 Austin",
+            "coordinates": [-97.75783, 30.22709, 0],
+            "engineType": "CE",
+            "exterior": "GOOD",
+            "fuel": 100,
+            "interior": "GOOD",
+            "name": "CSF 9071",
+            "smartPhoneRequired": false,
+            "vin": "WMEEJ3BAXEK734569"
+        }, {
+            "address": "E 4th St 2875, 78702 Austin",
+            "coordinates": [-97.71073, 30.25539, 0],
+            "engineType": "CE",
+            "exterior": "GOOD",
+            "fuel": 45,
+            "interior": "GOOD",
+            "name": "CSF 9197",
+            "smartPhoneRequired": false,
+            "vin": "WMEEJ3BA8EK734506"
+        }, {
+            "address": "Red Bluff Rd 4832, 78702 Austin",
+            "coordinates": [-97.70149, 30.25101, 0],
+            "engineType": "CE",
+            "exterior": "GOOD",
+            "fuel": 100,
+            "interior": "GOOD",
+            "name": "CSF 9064",
+            "smartPhoneRequired": false,
+            "vin": "WMEEJ3BA2EK733819"
+        }, {
+            "address": "W 10th St 1649, 78703 Austin",
+            "coordinates": [-97.76082, 30.27949, 0],
+            "engineType": "CE",
+            "exterior": "GOOD",
+            "fuel": 27,
+            "interior": "GOOD",
+            "name": "CSF 8926",
+            "smartPhoneRequired": false,
+            "vin": "WMEEJ3BA5EK733930"
+        }, {
+            "address": "S Mo-Pac Expy 2331, 78746 Austin",
+            "coordinates": [-97.79961, 30.25627, 0],
+            "engineType": "CE",
+            "exterior": "GOOD",
+            "fuel": 48,
+            "interior": "GOOD",
+            "name": "CSF 9192",
+            "smartPhoneRequired": false,
+            "vin": "WMEEJ3BA3EK734008"
+        }, {
+            "address": "E 13th St 926, 78702 Austin",
+            "coordinates": [-97.72998, 30.27324, 0],
+            "engineType": "CE",
+            "exterior": "GOOD",
+            "fuel": 42,
+            "interior": "GOOD",
+            "name": "CSF 8920",
+            "smartPhoneRequired": false,
+            "vin": "WMEEJ3BA8EK733792"
+        }, {
+            "address": "W 34th St 310, 78705 Austin",
+            "coordinates": [-97.73681, 30.29898, 0],
+            "engineType": "CE",
+            "exterior": "GOOD",
+            "fuel": 93,
+            "interior": "GOOD",
+            "name": "CSG 1521",
+            "smartPhoneRequired": false,
+            "vin": "WMEEJ3BA3EK735465"
+        }, {
+            "address": "Bouldin Ave 1838, 78704 Austin",
+            "coordinates": [-97.76035, 30.24844, 0],
+            "engineType": "CE",
+            "exterior": "GOOD",
+            "fuel": 96,
+            "interior": "GOOD",
+            "name": "CSF 9068",
+            "smartPhoneRequired": false,
+            "vin": "WMEEJ3BA0EK733706"
+        }, {
+            "address": "Avenue C 4021, 78751 Austin",
+            "coordinates": [-97.73361, 30.30414, 0],
+            "engineType": "CE",
+            "exterior": "UNACCEPTABLE",
+            "fuel": 15,
+            "interior": "UNACCEPTABLE",
+            "name": "CSF 8929",
+            "smartPhoneRequired": false,
+            "vin": "WMEEJ3BA9EK733333"
+        }, {
+            "address": "Esperanza Xing 3265, 78758 Austin",
+            "coordinates": [-97.7245, 30.39992, 0],
+            "engineType": "CE",
+            "exterior": "GOOD",
+            "fuel": 57,
+            "interior": "GOOD",
+            "name": "CSF 9195",
+            "smartPhoneRequired": false,
+            "vin": "WMEEJ3BA4EK734809"
+        }, {
+            "address": "Mariposa Dr 1901, 78741 Austin",
+            "coordinates": [-97.73321, 30.23363, 0],
+            "engineType": "CE",
+            "exterior": "GOOD",
+            "fuel": 60,
+            "interior": "GOOD",
+            "name": "CSF 9061",
+            "smartPhoneRequired": false,
+            "vin": "WMEEJ3BA1EK733018"
+        }, {
+            "address": "S Lakeshore Blvd 1745, 78741 Austin",
+            "coordinates": [-97.72911, 30.24485, 0],
+            "engineType": "CE",
+            "exterior": "GOOD",
+            "fuel": 48,
+            "interior": "GOOD",
+            "name": "CZS 9747",
+            "smartPhoneRequired": false,
+            "vin": "WMEEJ3BA1EK748201"
+        }, {
+            "address": "The Parking Spot",
+            "coordinates": [-97.67598, 30.22049, 0],
+            "engineType": "CE",
+            "exterior": "GOOD",
+            "fuel": 90,
+            "interior": "GOOD",
+            "name": "CZT 0917",
+            "smartPhoneRequired": false,
+            "vin": "WMEEJ3BA2EK748093"
+        }, {
+            "address": "E 4th St 2515, 78702 Austin",
+            "coordinates": [-97.71529, 30.25693, 0],
+            "engineType": "CE",
+            "exterior": "GOOD",
+            "fuel": 100,
+            "interior": "GOOD",
+            "name": "CZT 0935",
+            "smartPhoneRequired": false,
+            "vin": "WMEEJ3BAXEK748343"
+        }, {
+            "address": "Navajo Path 4579, 78745 Austin",
+            "coordinates": [-97.79659, 30.22816, 0],
+            "engineType": "CE",
+            "exterior": "GOOD",
+            "fuel": 100,
+            "interior": "GOOD",
+            "name": "CZT 0920",
+            "smartPhoneRequired": false,
+            "vin": "WMEEJ3BA2EK748904"
+        }, {
+            "address": "W Crestland Dr 605, 78752 Austin",
+            "coordinates": [-97.71332, 30.34032, 0],
+            "engineType": "CE",
+            "exterior": "GOOD",
+            "fuel": 33,
+            "interior": "GOOD",
+            "name": "CZS 9752",
+            "smartPhoneRequired": false,
+            "vin": "WMEEJ3BA3EK748958"
+        }, {
+            "address": "Ridgeway Dr 1190, 78702 Austin",
+            "coordinates": [-97.7042, 30.27477, 0],
+            "engineType": "CE",
+            "exterior": "GOOD",
+            "fuel": 100,
+            "interior": "GOOD",
+            "name": "CZT 0922",
+            "smartPhoneRequired": false,
+            "vin": "WMEEJ3BA0EK748416"
+        }, {
+            "address": "W 8th St 629, 78701 Austin",
+            "coordinates": [-97.74802, 30.27155, 0],
+            "engineType": "CE",
+            "exterior": "GOOD",
+            "fuel": 48,
+            "interior": "GOOD",
+            "name": "CZS 9745",
+            "smartPhoneRequired": false,
+            "vin": "WMEEJ3BA0EK748643"
+        }, {
+            "address": "Willowrun Dr 3491, 78704 Austin",
+            "coordinates": [-97.75334, 30.226, 0],
+            "engineType": "CE",
+            "exterior": "GOOD",
+            "fuel": 100,
+            "interior": "GOOD",
+            "name": "CZT 0934",
+            "smartPhoneRequired": false,
+            "vin": "WMEEJ3BA9EK749595"
+        }, {
+            "address": "Tambaleo Apartments",
+            "coordinates": [-97.76375, 30.24544, 0],
+            "engineType": "CE",
+            "exterior": "GOOD",
+            "fuel": 63,
+            "interior": "GOOD",
+            "name": "CZS 9753",
+            "smartPhoneRequired": false,
+            "vin": "WMEEJ3BAXEK748066"
+        }, {
+            "address": "Dickson Dr 2265, 78704 Austin",
+            "coordinates": [-97.78086, 30.24609, 0],
+            "engineType": "CE",
+            "exterior": "UNACCEPTABLE",
+            "fuel": 51,
+            "interior": "GOOD",
+            "name": "CZT 0923",
+            "smartPhoneRequired": false,
+            "vin": "WMEEJ3BA1EK748313"
+        }, {
+            "address": "Overbrook Dr 5582, 78723 Austin",
+            "coordinates": [-97.68197, 30.30269, 0],
+            "engineType": "CE",
+            "exterior": "GOOD",
+            "fuel": 57,
+            "interior": "GOOD",
+            "name": "CZS 9750",
+            "smartPhoneRequired": false,
+            "vin": "WMEEJ3BA7EK748543"
+        }, {
+            "address": "Pruett St 2357, 78703 Austin",
+            "coordinates": [-97.77215, 30.28154, 0],
+            "engineType": "CE",
+            "exterior": "GOOD",
+            "fuel": 100,
+            "interior": "GOOD",
+            "name": "CZS 9746",
+            "smartPhoneRequired": false,
+            "vin": "WMEEJ3BA2EK748448"
+        }, {
+            "address": "Sacramento Dr 575, 78704 Austin",
+            "coordinates": [-97.76298, 30.23568, 0],
+            "engineType": "CE",
+            "exterior": "GOOD",
+            "fuel": 100,
+            "interior": "GOOD",
+            "name": "CZT 0933",
+            "smartPhoneRequired": false,
+            "vin": "WMEEJ3BAXEK748410"
+        }, {
+            "address": "Post Road Dr 565, 78704 Austin",
+            "coordinates": [-97.76755, 30.2285, 0],
+            "engineType": "CE",
+            "exterior": "GOOD",
+            "fuel": 57,
+            "interior": "GOOD",
+            "name": "CZT 0936",
+            "smartPhoneRequired": false,
+            "vin": "WMEEJ3BAXEK748911"
+        }, {
+            "address": "Faro Dr 1524, 78741 Austin",
+            "coordinates": [-97.71331, 30.23443, 0],
+            "engineType": "CE",
+            "exterior": "UNACCEPTABLE",
+            "fuel": 100,
+            "interior": "GOOD",
+            "name": "CZT 0919",
+            "smartPhoneRequired": false,
+            "vin": "WMEEJ3BA3EK748832"
+        }, {
+            "address": "Muroc St 2125, 78757 Austin",
+            "coordinates": [-97.73499, 30.34403, 0],
+            "engineType": "CE",
+            "exterior": "GOOD",
+            "fuel": 100,
+            "interior": "GOOD",
+            "name": "CZS 9749",
+            "smartPhoneRequired": false,
+            "vin": "WMEEJ3BA2EK748112"
+        }, {
+            "address": "Del Curto Rd 2754, 78704 Austin",
+            "coordinates": [-97.77754, 30.24309, 0],
+            "engineType": "CE",
+            "exterior": "GOOD",
+            "fuel": 96,
+            "interior": "UNACCEPTABLE",
+            "name": "CZS 9754",
+            "smartPhoneRequired": false,
+            "vin": "WMEEJ3BA0EK748061"
+        }, {
+            "address": "Poppy Seed Ln 1778, 78741 Austin",
+            "coordinates": [-97.69462, 30.22217, 0],
+            "engineType": "CE",
+            "exterior": "GOOD",
+            "fuel": 36,
+            "interior": "GOOD",
+            "name": "CYL 4629",
+            "smartPhoneRequired": false,
+            "vin": "WMEEJ3BA6EK748789"
+        }, {
+            "address": "Greystone Dr 3841, 78731 Austin",
+            "coordinates": [-97.75722, 30.36077, 0],
+            "engineType": "CE",
+            "exterior": "UNACCEPTABLE",
+            "fuel": 57,
+            "interior": "GOOD",
+            "name": "CYL 4626",
+            "smartPhoneRequired": false,
+            "vin": "WMEEJ3BA7EK748123"
+        }, {
+            "address": "Arroyo Seco 7252, 78757 Austin",
+            "coordinates": [-97.72549, 30.34372, 0],
+            "engineType": "CE",
+            "exterior": "GOOD",
+            "fuel": 30,
+            "interior": "GOOD",
+            "name": "DSH 6620",
+            "smartPhoneRequired": false,
+            "vin": "WMEEJ3BA8EK748745"
+        }, {
+            "address": "Attayac St 548, 78702 Austin",
+            "coordinates": [-97.72968, 30.26379, 0],
+            "engineType": "CE",
+            "exterior": "UNACCEPTABLE",
+            "fuel": 36,
+            "interior": "GOOD",
+            "name": "CYL 4630",
+            "smartPhoneRequired": false,
+            "vin": "WMEEJ3BA9EK749032"
+        }, {
+            "address": "Adams Ave 5658, 78756 Austin",
+            "coordinates": [-97.73946, 30.33093, 0],
+            "engineType": "CE",
+            "exterior": "GOOD",
+            "fuel": 63,
+            "interior": "GOOD",
+            "name": "CSG 1099",
+            "smartPhoneRequired": false,
+            "vin": "WMEEJ3BA5EK749142"
+        }, {
+            "address": "Gault St 7870, 78757 Austin",
+            "coordinates": [-97.71877, 30.35016, 0],
+            "engineType": "CE",
+            "exterior": "GOOD",
+            "fuel": 90,
+            "interior": "GOOD",
+            "name": "CYL 4628",
+            "smartPhoneRequired": false,
+            "vin": "WMEEJ3BA8EK748969"
+        }, {
+            "address": "Calles St 618, 78702 Austin",
+            "coordinates": [-97.71242, 30.25896, 0],
+            "engineType": "CE",
+            "exterior": "GOOD",
+            "fuel": 100,
+            "interior": "GOOD",
+            "name": "CZT 1032",
+            "smartPhoneRequired": false,
+            "vin": "WMEEJ3BA3EK748295"
+        }, {
+            "address": "Lightsey Rd 573, 78704 Austin",
+            "coordinates": [-97.76528, 30.2321, 0],
+            "engineType": "CE",
+            "exterior": "GOOD",
+            "fuel": 84,
+            "interior": "GOOD",
+            "name": "CZT 1031",
+            "smartPhoneRequired": false,
+            "vin": "WMEEJ3BA3EK748152"
+        }, {
+            "address": "Sagebrush Trl 4654, 78745 Austin",
+            "coordinates": [-97.7998, 30.22824, 0],
+            "engineType": "CE",
+            "exterior": "GOOD",
+            "fuel": 30,
+            "interior": "GOOD",
+            "name": "CYL 4639",
+            "smartPhoneRequired": false,
+            "vin": "WMEEJ3BA8EK748891"
+        }, {
+            "address": "Santa Maria St 2224, 78702 Austin",
+            "coordinates": [-97.71925, 30.25824, 0],
+            "engineType": "CE",
+            "exterior": "GOOD",
+            "fuel": 66,
+            "interior": "GOOD",
+            "name": "CZT 0995",
+            "smartPhoneRequired": false,
+            "vin": "WMEEJ3BA8EK748163"
+        }, {
+            "address": "Comal St 820, 78702 Austin",
+            "coordinates": [-97.72568, 30.26503, 0],
+            "engineType": "CE",
+            "exterior": "GOOD",
+            "fuel": 96,
+            "interior": "GOOD",
+            "name": "CZT 0997",
+            "smartPhoneRequired": false,
+            "vin": "WMEEJ3BA9EK748432"
+        }, {
+            "address": "Josephine St 436, 78704 Austin",
+            "coordinates": [-97.7587, 30.26191, 0],
+            "engineType": "CE",
+            "exterior": "GOOD",
+            "fuel": 54,
+            "interior": "GOOD",
+            "name": "CZT 1033",
+            "smartPhoneRequired": false,
+            "vin": "WMEEJ3BA9EK748513"
+        }, {
+            "address": "Chalmers Ave 630, 78702 Austin",
+            "coordinates": [-97.72436, 30.26265, 0],
+            "engineType": "CE",
+            "exterior": "GOOD",
+            "fuel": 36,
+            "interior": "GOOD",
+            "name": "CZT 0993",
+            "smartPhoneRequired": false,
+            "vin": "WMEEJ3BA6EK748081"
+        }, {
+            "address": "Timbercreek Apartments",
+            "coordinates": [-97.75159, 30.25617, 0],
+            "engineType": "CE",
+            "exterior": "GOOD",
+            "fuel": 63,
+            "interior": "GOOD",
+            "name": "CZT 0999",
+            "smartPhoneRequired": false,
+            "vin": "WMEEJ3BA4EK748886"
+        }, {
+            "address": "E 7th St 1117, 78702 Austin",
+            "coordinates": [-97.73042, 30.26537, 0],
+            "engineType": "CE",
+            "exterior": "GOOD",
+            "fuel": 100,
+            "interior": "GOOD",
+            "name": "CZT 0998",
+            "smartPhoneRequired": false,
+            "vin": "WMEEJ3BA3EK748071"
+        }, {
+            "address": "Sagebrush Trl 4630, 78745 Austin",
+            "coordinates": [-97.7997, 30.22865, 0],
+            "engineType": "CE",
+            "exterior": "GOOD",
+            "fuel": 75,
+            "interior": "GOOD",
+            "name": "CZT 1026",
+            "smartPhoneRequired": false,
+            "vin": "WMEEJ3BA8EK748230"
+        }, {
+            "address": "Wilshire Pky 4234, 78722 Austin",
+            "coordinates": [-97.71164, 30.29698, 0],
+            "engineType": "CE",
+            "exterior": "GOOD",
+            "fuel": 69,
+            "interior": "GOOD",
+            "name": "CYL 4640",
+            "smartPhoneRequired": false,
+            "vin": "WMEEJ3BA8EK748731"
+        }, {
+            "address": "Alpine Rd W 508, 78704 Austin",
+            "coordinates": [-97.76533, 30.23089, 0],
+            "engineType": "CE",
+            "exterior": "GOOD",
+            "fuel": 36,
+            "interior": "GOOD",
+            "name": "CZT 1028",
+            "smartPhoneRequired": false,
+            "vin": "WMEEJ3BA5EK748105"
+        }, {
+            "address": "Roundup Trl 4854, 78745 Austin",
+            "coordinates": [-97.7932, 30.22333, 0],
+            "engineType": "CE",
+            "exterior": "GOOD",
+            "fuel": 81,
+            "interior": "GOOD",
+            "name": "CZT 0994",
+            "smartPhoneRequired": false,
+            "vin": "WMEEJ3BA9EK748169"
+        }, {
+            "address": "Woodbury Dr 3914, 78704 Austin",
+            "coordinates": [-97.76063, 30.22361, 0],
+            "engineType": "CE",
+            "exterior": "GOOD",
+            "fuel": 42,
+            "interior": "GOOD",
+            "name": "CZT 1029",
+            "smartPhoneRequired": false,
+            "vin": "WMEEJ3BA8EK748373"
+        }, {
+            "address": "E 5th St 1733, 78702 Austin",
+            "coordinates": [-97.72515, 30.26157, 0],
+            "engineType": "CE",
+            "exterior": "GOOD",
+            "fuel": 30,
+            "interior": "GOOD",
+            "name": "DBW 2626",
+            "smartPhoneRequired": false,
+            "vin": "WMEEJ3BA5EK748251"
+        }, {
+            "address": "E 5th St 5082, 78702 Austin",
+            "coordinates": [-97.6985, 30.25227, 0],
+            "engineType": "CE",
+            "exterior": "GOOD",
+            "fuel": 100,
+            "interior": "GOOD",
+            "name": "CZT 1027",
+            "smartPhoneRequired": false,
+            "vin": "WMEEJ3BA9EK748267"
+        }, {
+            "address": "Red River St 1252, 78701 Austin",
+            "coordinates": [-97.73496, 30.27296, 0],
+            "engineType": "CE",
+            "exterior": "GOOD",
+            "fuel": 54,
+            "interior": "GOOD",
+            "name": "CZT 0996",
+            "smartPhoneRequired": false,
+            "vin": "WMEEJ3BA9EK748575"
+        }, {
+            "address": "Gonzales St 3505, 78702 Austin",
+            "coordinates": [-97.70244, 30.25776, 0],
+            "engineType": "CE",
+            "exterior": "GOOD",
+            "fuel": 42,
+            "interior": "GOOD",
+            "name": "DBW 2627",
+            "smartPhoneRequired": false,
+            "vin": "WMEEJ3BA3EK748698"
+        }, {
+            "address": "University Estates",
+            "coordinates": [-97.7134, 30.2377, 0],
+            "engineType": "CE",
+            "exterior": "GOOD",
+            "fuel": 93,
+            "interior": "GOOD",
+            "name": "CSG 2511",
+            "smartPhoneRequired": false,
+            "vin": "WMEEJ3BA5EK736052"
+        }, {
+            "address": "E 5th St 3414, 78702 Austin",
+            "coordinates": [-97.70455, 30.25441, 0],
+            "engineType": "CE",
+            "exterior": "GOOD",
+            "fuel": 100,
+            "interior": "GOOD",
+            "name": "FBV 4381",
+            "smartPhoneRequired": false,
+            "vin": "WMEEJ3BA6FK799310"
+        }, {
+            "address": "Hillside Apartments",
+            "coordinates": [-97.71818, 30.23065, 0],
+            "engineType": "CE",
+            "exterior": "GOOD",
+            "fuel": 96,
+            "interior": "GOOD",
+            "name": "FBV 4428",
+            "smartPhoneRequired": false,
+            "vin": "WMEEJ3BA3FK799491"
+        }, {
+            "address": "Elmont Dr 2216, 78741 Austin",
+            "coordinates": [-97.7237, 30.24225, 0],
+            "engineType": "CE",
+            "exterior": "GOOD",
+            "fuel": 54,
+            "interior": "GOOD",
+            "name": "FBV 4431",
+            "smartPhoneRequired": false,
+            "vin": "WMEEJ3BA4FK799435"
+        }, {
+            "address": "University Estates",
+            "coordinates": [-97.7134, 30.2377, 0],
+            "engineType": "CE",
+            "exterior": "UNACCEPTABLE",
+            "fuel": 84,
+            "interior": "UNACCEPTABLE",
+            "name": "FBV 4380",
+            "smartPhoneRequired": false,
+            "vin": "WMEEJ3BA7FK799283"
+        }, {
+            "address": "Willow Hill Dr 2441, 78741 Austin",
+            "coordinates": [-97.72606, 30.23299, 0],
+            "engineType": "CE",
+            "exterior": "GOOD",
+            "fuel": 51,
+            "interior": "GOOD",
+            "name": "FBV 4372",
+            "smartPhoneRequired": false,
+            "vin": "WMEEJ3BA2FK798591"
+        }, {
+            "address": "E 5th St 2937, 78702 Austin",
+            "coordinates": [-97.70977, 30.25612, 0],
+            "engineType": "CE",
+            "exterior": "GOOD",
+            "fuel": 72,
+            "interior": "GOOD",
+            "name": "FBV 4438",
+            "smartPhoneRequired": false,
+            "vin": "WMEEJ3BA2FK799286"
+        }, {
+            "address": "Esperanza Xing 3150, 78758 Austin",
+            "coordinates": [-97.72266, 30.39954, 0],
+            "engineType": "CE",
+            "exterior": "GOOD",
+            "fuel": 100,
+            "interior": "GOOD",
+            "name": "FBV 4435",
+            "smartPhoneRequired": false,
+            "vin": "WMEEJ3BA5FK799380"
+        }, {
+            "address": "St Edwards Dr 1387, 78704 Austin",
+            "coordinates": [-97.74655, 30.22877, 0],
+            "engineType": "CE",
+            "exterior": "GOOD",
+            "fuel": 66,
+            "interior": "GOOD",
+            "name": "FBV 4354",
+            "smartPhoneRequired": false,
+            "vin": "WMEEJ3BA2FK799496"
+        }, {
+            "address": "Theatre Pass, 78704 Austin",
+            "coordinates": [-97.75206, 30.22752, 0],
+            "engineType": "CE",
+            "exterior": "UNACCEPTABLE",
+            "fuel": 48,
+            "interior": "UNACCEPTABLE",
+            "name": "FBV 4425",
+            "smartPhoneRequired": false,
+            "vin": "WMEEJ3BAXFK799584"
+        }, {
+            "address": "Mansell Ave 1122, 78721 Austin",
+            "coordinates": [-97.68716, 30.27472, 0],
+            "engineType": "CE",
+            "exterior": "GOOD",
+            "fuel": 100,
+            "interior": "GOOD",
+            "name": "FBV 4390",
+            "smartPhoneRequired": false,
+            "vin": "WMEEJ3BA1FK799294"
+        }, {
+            "address": "Krebs Ln 585, 78704 Austin",
+            "coordinates": [-97.76835, 30.22787, 0],
+            "engineType": "CE",
+            "exterior": "GOOD",
+            "fuel": 100,
+            "interior": "GOOD",
+            "name": "FBV 4389",
+            "smartPhoneRequired": false,
+            "vin": "WMEEJ3BA0FK799335"
+        }, {
+            "address": "Mariposa Dr 1968, 78741 Austin",
+            "coordinates": [-97.73199, 30.23384, 0],
+            "engineType": "CE",
+            "exterior": "GOOD",
+            "fuel": 84,
+            "interior": "GOOD",
+            "name": "FBV 4421",
+            "smartPhoneRequired": false,
+            "vin": "WMEEJ3BA8FK799809"
+        }, {
+            "address": "Elmira Rd 1805, 78721 Austin",
+            "coordinates": [-97.68546, 30.28473, 0],
+            "engineType": "CE",
+            "exterior": "GOOD",
+            "fuel": 39,
+            "interior": "GOOD",
+            "name": "FBV 4379",
+            "smartPhoneRequired": false,
+            "vin": "WMEEJ3BA7FK799235"
+        }, {
+            "address": "Audrey Ct 1061, 78704 Austin",
+            "coordinates": [-97.77238, 30.23266, 0],
+            "engineType": "CE",
+            "exterior": "GOOD",
+            "fuel": 57,
+            "interior": "GOOD",
+            "name": "FBV 4377",
+            "smartPhoneRequired": false,
+            "vin": "WMEEJ3BA6FK800035"
+        }, {
+            "address": "Hart Ln 7294, 78731 Austin",
+            "coordinates": [-97.7551, 30.35689, 0],
+            "engineType": "CE",
+            "exterior": "GOOD",
+            "fuel": 63,
+            "interior": "GOOD",
+            "name": "FBV 4370",
+            "smartPhoneRequired": false,
+            "vin": "WMEEJ3BAXFK798967"
+        }, {
+            "address": "Mullen Dr 7868, 78757 Austin",
+            "coordinates": [-97.72637, 30.35324, 0],
+            "engineType": "CE",
+            "exterior": "UNACCEPTABLE",
+            "fuel": 100,
+            "interior": "UNACCEPTABLE",
+            "name": "FBV 4364",
+            "smartPhoneRequired": false,
+            "vin": "WMEEJ3BA5FK799606"
+        }, {
+            "address": "E Oltorf St 4536, 78741 Austin",
+            "coordinates": [-97.72436, 30.2271, 0],
+            "engineType": "CE",
+            "exterior": "GOOD",
+            "fuel": 100,
+            "interior": "GOOD",
+            "name": "FBV 4439",
+            "smartPhoneRequired": false,
+            "vin": "WMEEJ3BA8FK799261"
+        }, {
+            "address": "Radam Ln 662, 78745 Austin",
+            "coordinates": [-97.77273, 30.22525, 0],
+            "engineType": "CE",
+            "exterior": "GOOD",
+            "fuel": 100,
+            "interior": "UNACCEPTABLE",
+            "name": "FBV 4395",
+            "smartPhoneRequired": false,
+            "vin": "WMEEJ3BA9FK799219"
+        }, {
+            "address": "E 5th St 2277, 78702 Austin",
+            "coordinates": [-97.71822, 30.25899, 0],
+            "engineType": "CE",
+            "exterior": "GOOD",
+            "fuel": 63,
+            "interior": "GOOD",
+            "name": "FBV 4376",
+            "smartPhoneRequired": false,
+            "vin": "WMEEJ3BA9FK800031"
+        }, {
+            "address": "Adam L Chapa Sr St 160, 78702 Austin",
+            "coordinates": [-97.72343, 30.25733, 0],
+            "engineType": "CE",
+            "exterior": "GOOD",
+            "fuel": 100,
+            "interior": "GOOD",
+            "name": "FBV 4433",
+            "smartPhoneRequired": false,
+            "vin": "WMEEJ3BAXFK799391"
+        }, {
+            "address": "W Gateway Dr 1662, 78703 Austin",
+            "coordinates": [-97.76419, 30.27738, 0],
+            "engineType": "CE",
+            "exterior": "GOOD",
+            "fuel": 39,
+            "interior": "GOOD",
+            "name": "FBV 4358",
+            "smartPhoneRequired": false,
+            "vin": "WMEEJ3BA2FK798395"
+        }, {
+            "address": "Upson St 518, 78703 Austin",
+            "coordinates": [-97.77133, 30.27775, 0],
+            "engineType": "CE",
+            "exterior": "GOOD",
+            "fuel": 66,
+            "interior": "GOOD",
+            "name": "FBV 4434",
+            "smartPhoneRequired": false,
+            "vin": "WMEEJ3BAXFK799388"
+        }, {
+            "address": "Bennett Ave 4654, 78751 Austin",
+            "coordinates": [-97.71636, 30.30614, 0],
+            "engineType": "CE",
+            "exterior": "GOOD",
+            "fuel": 45,
+            "interior": "GOOD",
+            "name": "FBV 4362",
+            "smartPhoneRequired": false,
+            "vin": "WMEEJ3BA9FK799558"
+        }, {
+            "address": "Duval St 5727, 78752 Austin",
+            "coordinates": [-97.71649, 30.32146, 0],
+            "engineType": "CE",
+            "exterior": "GOOD",
+            "fuel": 100,
+            "interior": "GOOD",
+            "name": "FBV 4383",
+            "smartPhoneRequired": false,
+            "vin": "WMEEJ3BAXFK799407"
+        }, {
+            "address": "Angelina St 1152, 78702 Austin",
+            "coordinates": [-97.7243, 30.26907, 0],
+            "engineType": "CE",
+            "exterior": "GOOD",
+            "fuel": 36,
+            "interior": "GOOD",
+            "name": "FBV 4367",
+            "smartPhoneRequired": false,
+            "vin": "WMEEJ3BA4FK799757"
+        }, {
+            "address": "Jefferson St 3936, 78731 Austin",
+            "coordinates": [-97.74942, 30.31111, 0],
+            "engineType": "CE",
+            "exterior": "GOOD",
+            "fuel": 33,
+            "interior": "GOOD",
+            "name": "FBV 4424",
+            "smartPhoneRequired": false,
+            "vin": "WMEEJ3BA1FK799635"
+        }, {
+            "address": "Southridge Dr 3536, 78704 Austin",
+            "coordinates": [-97.77802, 30.23461, 0],
+            "engineType": "CE",
+            "exterior": "GOOD",
+            "fuel": 51,
+            "interior": "GOOD",
+            "name": "FBV 4366",
+            "smartPhoneRequired": false,
+            "vin": "WMEEJ3BA0FK799741"
+        }, {
+            "address": "Anken Dr 2407, 78741 Austin",
+            "coordinates": [-97.72873, 30.23075, 0],
+            "engineType": "CE",
+            "exterior": "GOOD",
+            "fuel": 100,
+            "interior": "GOOD",
+            "name": "FBV 4393",
+            "smartPhoneRequired": false,
+            "vin": "WMEEJ3BA2FK799241"
+        }, {
+            "address": "Dickson Dr 2299, 78704 Austin",
+            "coordinates": [-97.78122, 30.24613, 0],
+            "engineType": "CE",
+            "exterior": "GOOD",
+            "fuel": 100,
+            "interior": "GOOD",
+            "name": "FBV 4386",
+            "smartPhoneRequired": false,
+            "vin": "WMEEJ3BA9FK799544"
+        }, {
+            "address": "Radam Ln 182, 78745 Austin",
+            "coordinates": [-97.76621, 30.22233, 0],
+            "engineType": "CE",
+            "exterior": "GOOD",
+            "fuel": 60,
+            "interior": "GOOD",
+            "name": "FBV 4363",
+            "smartPhoneRequired": false,
+            "vin": "WMEEJ3BA4FK799595"
+        }, {
+            "address": "Highland Business Center",
+            "coordinates": [-97.71235, 30.32373, 0],
+            "engineType": "CE",
+            "exterior": "GOOD",
+            "fuel": 45,
+            "interior": "GOOD",
+            "name": "FBV 4422",
+            "smartPhoneRequired": false,
+            "vin": "WMEEJ3BA5FK799802"
+        }, {
+            "address": "Indio Cir 5300, 78745 Austin",
+            "coordinates": [-97.80463, 30.22288, 0],
+            "engineType": "CE",
+            "exterior": "GOOD",
+            "fuel": 84,
+            "interior": "GOOD",
+            "name": "FBV 4359",
+            "smartPhoneRequired": false,
+            "vin": "WMEEJ3BA2FK799871"
+        }, {
+            "address": "Creekline Dr 5078, 78745 Austin",
+            "coordinates": [-97.77634, 30.21235, 0],
+            "engineType": "CE",
+            "exterior": "GOOD",
+            "fuel": 78,
+            "interior": "GOOD",
+            "name": "FBV 4426",
+            "smartPhoneRequired": false,
+            "vin": "WMEEJ3BAXFK799536"
+        }, {
+            "address": "Huerta St 777, 78704 Austin",
+            "coordinates": [-97.76441, 30.23744, 0],
+            "engineType": "CE",
+            "exterior": "GOOD",
+            "fuel": 66,
+            "interior": "GOOD",
+            "name": "FBV 4394",
+            "smartPhoneRequired": false,
+            "vin": "WMEEJ3BAXFK799231"
+        }, {
+            "address": "Algarita Apartments",
+            "coordinates": [-97.74122, 30.23734, 0],
+            "engineType": "CE",
+            "exterior": "GOOD",
+            "fuel": 100,
+            "interior": "GOOD",
+            "name": "FBV 4392",
+            "smartPhoneRequired": false,
+            "vin": "WMEEJ3BA7FK799252"
+        }, {
+            "address": "Attayac St 486, 78702 Austin",
+            "coordinates": [-97.72982, 30.26343, 0],
+            "engineType": "CE",
+            "exterior": "GOOD",
+            "fuel": 66,
+            "interior": "GOOD",
+            "name": "FBV 4388",
+            "smartPhoneRequired": false,
+            "vin": "WMEEJ3BA2FK799420"
+        }, {
+            "address": "E 2nd St 1739, 78702 Austin",
+            "coordinates": [-97.72584, 30.25855, 0],
+            "engineType": "CE",
+            "exterior": "GOOD",
+            "fuel": 45,
+            "interior": "GOOD",
+            "name": "FBV 4385",
+            "smartPhoneRequired": false,
+            "vin": "WMEEJ3BA6FK799470"
+        }, {
+            "address": "Linder Ct 2501, 78741 Austin",
+            "coordinates": [-97.72179, 30.22469, 0],
+            "engineType": "CE",
+            "exterior": "GOOD",
+            "fuel": 30,
+            "interior": "GOOD",
+            "name": "FBV 4356",
+            "smartPhoneRequired": false,
+            "vin": "WMEEJ3BA3FK797689"
+        }, {
+            "address": "Bridgeway Ct 2650, 78704 Austin",
+            "coordinates": [-97.77407, 30.24255, 0],
+            "engineType": "CE",
+            "exterior": "GOOD",
+            "fuel": 72,
+            "interior": "GOOD",
+            "name": "FBV 4369",
+            "smartPhoneRequired": false,
+            "vin": "WMEEJ3BA7FK799204"
+        }, {
+            "address": "Locke Ln 3300, 78704 Austin",
+            "coordinates": [-97.77092, 30.236, 0],
+            "engineType": "CE",
+            "exterior": "GOOD",
+            "fuel": 100,
+            "interior": "GOOD",
+            "name": "FBV 4432",
+            "smartPhoneRequired": false,
+            "vin": "WMEEJ3BA2FK799417"
+        }, {
+            "address": "Esperanza Xing 3032, 78758 Austin",
+            "coordinates": [-97.72159, 30.39911, 0],
+            "engineType": "CE",
+            "exterior": "GOOD",
+            "fuel": 24,
+            "interior": "GOOD",
+            "name": "FBV 4365",
+            "smartPhoneRequired": false,
+            "vin": "WMEEJ3BA2FK799675"
+        }, {
+            "address": "Shoal Crest Ave 2886, 78705 Austin",
+            "coordinates": [-97.74781, 30.29757, 0],
+            "engineType": "CE",
+            "exterior": "GOOD",
+            "fuel": 63,
+            "interior": "GOOD",
+            "name": "FBV 4368",
+            "smartPhoneRequired": false,
+            "vin": "WMEEJ3BA8FK799213"
+        }, {
+            "address": "W 40th St 1237, 78756 Austin",
+            "coordinates": [-97.74409, 30.30915, 0],
+            "engineType": "CE",
+            "exterior": "GOOD",
+            "fuel": 42,
+            "interior": "GOOD",
+            "name": "FBV 4378",
+            "smartPhoneRequired": false,
+            "vin": "WMEEJ3BA3FK799197"
+        }, {
+            "address": "E Riverside Dr 486, 78704 Austin",
+            "coordinates": [-97.74313, 30.25327, 0],
+            "engineType": "CE",
+            "exterior": "GOOD",
+            "fuel": 78,
+            "interior": "GOOD",
+            "name": "FBV 4355",
+            "smartPhoneRequired": false,
+            "vin": "WMEEJ3BA5FK798990"
+        }, {
+            "address": "Treadwell St 1502, 78704 Austin",
+            "coordinates": [-97.76325, 30.257, 0],
+            "engineType": "CE",
+            "exterior": "GOOD",
+            "fuel": 45,
+            "interior": "GOOD",
+            "name": "FBV 6124",
+            "smartPhoneRequired": false,
+            "vin": "WMEEJ3BA2FK799028"
+        }, {
+            "address": "ACC Eastview Campus",
+            "coordinates": [-97.70532, 30.26726, 0],
+            "engineType": "CE",
+            "exterior": "GOOD",
+            "fuel": 42,
+            "interior": "GOOD",
+            "name": "FBV 4371",
+            "smartPhoneRequired": false,
+            "vin": "WMEEJ3BAXFK798502"
+        }, {
+            "address": "Amesbury Ln 689, 78752 Austin",
+            "coordinates": [-97.71441, 30.34236, 0],
+            "engineType": "CE",
+            "exterior": "GOOD",
+            "fuel": 54,
+            "interior": "GOOD",
+            "name": "FBV 4384",
+            "smartPhoneRequired": false,
+            "vin": "WMEEJ3BA8FK799440"
+        }, {
+            "address": "Canterbury St 1666, 78702 Austin",
+            "coordinates": [-97.72809, 30.25629, 0],
+            "engineType": "CE",
+            "exterior": "GOOD",
+            "fuel": 39,
+            "interior": "GOOD",
+            "name": "FBV 4360",
+            "smartPhoneRequired": false,
+            "vin": "WMEEJ3BA0FK799920"
+        }, {
+            "address": "E Cesar Chavez St and Comal St",
+            "coordinates": [-97.72877, 30.25839, 0],
+            "engineType": "CE",
+            "exterior": "GOOD",
+            "fuel": 100,
+            "interior": "GOOD",
+            "name": "FBV 4361",
+            "smartPhoneRequired": false,
+            "vin": "WMEEJ3BA6FK799503"
+        }, {
+            "address": "3rd St S 1780, 78704 Austin",
+            "coordinates": [-97.75852, 30.24852, 0],
+            "engineType": "CE",
+            "exterior": "GOOD",
+            "fuel": 39,
+            "interior": "GOOD",
+            "name": "FBV 4436",
+            "smartPhoneRequired": false,
+            "vin": "WMEEJ3BA9FK799317"
+        }, {
+            "address": "Bennett Ave 4584, 78751 Austin",
+            "coordinates": [-97.71699, 30.30513, 0],
+            "engineType": "CE",
+            "exterior": "GOOD",
+            "fuel": 42,
+            "interior": "GOOD",
+            "name": "FBV 4382",
+            "smartPhoneRequired": false,
+            "vin": "WMEEJ3BA8FK799325"
+        }, {
+            "address": "Faro Dr 1561, 78741 Austin",
+            "coordinates": [-97.71279, 30.23419, 0],
+            "engineType": "CE",
+            "exterior": "GOOD",
+            "fuel": 36,
+            "interior": "GOOD",
+            "name": "FBV 4387",
+            "smartPhoneRequired": false,
+            "vin": "WMEEJ3BA9FK799480"
+        }, {
+            "address": "Penny Ln 2470, 78757 Austin",
+            "coordinates": [-97.72924, 30.36484, 0],
+            "engineType": "CE",
+            "exterior": "GOOD",
+            "fuel": 84,
+            "interior": "GOOD",
+            "name": "FBV 4391",
+            "smartPhoneRequired": false,
+            "vin": "WMEEJ3BA0FK799271"
+        }, {
+            "address": "The Parking Spot",
+            "coordinates": [-97.67598, 30.22049, 0],
+            "engineType": "CE",
+            "exterior": "GOOD",
+            "fuel": 100,
+            "interior": "GOOD",
+            "name": "FBV 4427",
+            "smartPhoneRequired": false,
+            "vin": "WMEEJ3BA0FK799514"
+        }, {
+            "address": "W 32nd St 1863, 78703 Austin",
+            "coordinates": [-97.75607, 30.30493, 0],
+            "engineType": "CE",
+            "exterior": "GOOD",
+            "fuel": 60,
+            "interior": "GOOD",
+            "name": "FBV 4423",
+            "smartPhoneRequired": false,
+            "vin": "WMEEJ3BA5FK799685"
+        }, {
+            "address": "Lake Austin Blvd - Oyster Landing",
+            "coordinates": [-97.78376, 30.29454, 0],
+            "engineType": "CE",
+            "exterior": "GOOD",
+            "fuel": 100,
+            "interior": "GOOD",
+            "name": "FBV 4489",
+            "smartPhoneRequired": false,
+            "vin": "WMEEJ3BA2FK802980"
+        }, {
+            "address": "Nueces St 743, 78701 Austin",
+            "coordinates": [-97.74789, 30.27099, 0],
+            "engineType": "CE",
+            "exterior": "GOOD",
+            "fuel": 48,
+            "interior": "GOOD",
+            "name": "FBV 4471",
+            "smartPhoneRequired": false,
+            "vin": "WMEEJ3BA1FK802551"
+        }, {
+            "address": "Dickson Dr 2181, 78704 Austin",
+            "coordinates": [-97.7806, 30.2458, 0],
+            "engineType": "CE",
+            "exterior": "GOOD",
+            "fuel": 100,
+            "interior": "GOOD",
+            "name": "FBV 4477",
+            "smartPhoneRequired": false,
+            "vin": "WMEEJ3BA3FK803068"
+        }, {
+            "address": "Tillery St 604, 78702 Austin",
+            "coordinates": [-97.70627, 30.25706, 0],
+            "engineType": "CE",
+            "exterior": "GOOD",
+            "fuel": 100,
+            "interior": "GOOD",
+            "name": "FBV 4487",
+            "smartPhoneRequired": false,
+            "vin": "WMEEJ3BA8FK803020"
+        }, {
+            "address": "Johanna St W 928, 78704 Austin",
+            "coordinates": [-97.76163, 30.24711, 0],
+            "engineType": "CE",
+            "exterior": "GOOD",
+            "fuel": 57,
+            "interior": "GOOD",
+            "name": "FBV 4475",
+            "smartPhoneRequired": false,
+            "vin": "WMEEJ3BA0FK803125"
+        }, {
+            "address": "The Parking Spot",
+            "coordinates": [-97.67598, 30.22049, 0],
+            "engineType": "CE",
+            "exterior": "GOOD",
+            "fuel": 60,
+            "interior": "GOOD",
+            "name": "FBV 4469",
+            "smartPhoneRequired": false,
+            "vin": "WMEEJ3BA2FK802400"
+        }, {
+            "address": "24th and San Gabriel",
+            "coordinates": [-97.74805, 30.28827, 0],
+            "engineType": "CE",
+            "exterior": "GOOD",
+            "fuel": 75,
+            "interior": "GOOD",
+            "name": "FBV 4468",
+            "smartPhoneRequired": false,
+            "vin": "WMEEJ3BA2FK802378"
+        }, {
+            "address": "Taulbee Ln 859, 78757 Austin",
+            "coordinates": [-97.71504, 30.34546, 0],
+            "engineType": "CE",
+            "exterior": "GOOD",
+            "fuel": 33,
+            "interior": "GOOD",
+            "name": "FBV 4491",
+            "smartPhoneRequired": false,
+            "vin": "WMEEJ3BA7FK802926"
+        }, {
+            "address": "Luther Ln 999, 78705 Austin",
+            "coordinates": [-97.7232, 30.29244, 0],
+            "engineType": "CE",
+            "exterior": "GOOD",
+            "fuel": 24,
+            "interior": "GOOD",
+            "name": "FBV 4467",
+            "smartPhoneRequired": false,
+            "vin": "WMEEJ3BA7FK801727"
+        }, {
+            "address": "Willow Creek Dr 1977, 78741 Austin",
+            "coordinates": [-97.72732, 30.23239, 0],
+            "engineType": "CE",
+            "exterior": "GOOD",
+            "fuel": 87,
+            "interior": "GOOD",
+            "name": "FGZ 9137",
+            "smartPhoneRequired": false,
+            "vin": "WMEEJ3BA1FK802176"
+        }, {
+            "address": "Old Koenig Ln 869, 78756 Austin",
+            "coordinates": [-97.7259, 30.32821, 0],
+            "engineType": "CE",
+            "exterior": "GOOD",
+            "fuel": 39,
+            "interior": "GOOD",
+            "name": "FGZ 8625",
+            "smartPhoneRequired": false,
+            "vin": "WMEEJ3BA2FK802588"
+        }, {
+            "address": "Anken Dr 2438, 78741 Austin",
+            "coordinates": [-97.72766, 30.23161, 0],
+            "engineType": "CE",
+            "exterior": "GOOD",
+            "fuel": 27,
+            "interior": "GOOD",
+            "name": "FFD 7834",
+            "smartPhoneRequired": false,
+            "vin": "WMEEJ3BA7FK803221"
+        }, {
+            "address": "Manorwood Rd 3704, 78723 Austin",
+            "coordinates": [-97.7043, 30.28714, 0],
+            "engineType": "CE",
+            "exterior": "UNACCEPTABLE",
+            "fuel": 72,
+            "interior": "GOOD",
+            "name": "FBV 4472",
+            "smartPhoneRequired": false,
+            "vin": "WMEEJ3BA5FK802617"
+        }, {
+            "address": "5th St S 2186, 78704 Austin",
+            "coordinates": [-97.76376, 30.24563, 0],
+            "engineType": "CE",
+            "exterior": "GOOD",
+            "fuel": 42,
+            "interior": "GOOD",
+            "name": "FBV 4476",
+            "smartPhoneRequired": false,
+            "vin": "WMEEJ3BA3FK802826"
+        }, {
+            "address": "S 1st St 3659, 78704 Austin",
+            "coordinates": [-97.767, 30.22986, 0],
+            "engineType": "CE",
+            "exterior": "GOOD",
+            "fuel": 78,
+            "interior": "GOOD",
+            "name": "FBV 4490",
+            "smartPhoneRequired": false,
+            "vin": "WMEEJ3BA7FK802943"
+        }, {
+            "address": "Indian Trl 2515, 78703 Austin",
+            "coordinates": [-97.76585, 30.2962, 0],
+            "engineType": "CE",
+            "exterior": "GOOD",
+            "fuel": 84,
+            "interior": "GOOD",
+            "name": "FBV 4488",
+            "smartPhoneRequired": false,
+            "vin": "WMEEJ3BAXFK802998"
+        }, {
+            "address": "Shoal Creek Blvd 3966, 78756 Austin",
+            "coordinates": [-97.74852, 30.31082, 0],
+            "engineType": "CE",
+            "exterior": "GOOD",
+            "fuel": 63,
+            "interior": "GOOD",
+            "name": "FBV 4470",
+            "smartPhoneRequired": false,
+            "vin": "WMEEJ3BA5FK802424"
+        }, {
+            "address": "Harvest Ln 5340, 78745 Austin",
+            "coordinates": [-97.77767, 30.2095, 0],
+            "engineType": "CE",
+            "exterior": "GOOD",
+            "fuel": 72,
+            "interior": "GOOD",
+            "name": "FBV 4495",
+            "smartPhoneRequired": false,
+            "vin": "WMEEJ3BA8FK800408"
+        }, {
+            "address": "Hogan Ave 5957, 78741 Austin",
+            "coordinates": [-97.70186, 30.23666, 0],
+            "engineType": "CE",
+            "exterior": "GOOD",
+            "fuel": 96,
+            "interior": "GOOD",
+            "name": "FGZ 9139",
+            "smartPhoneRequired": false,
+            "vin": "WMEEJ3BA5FK800396"
+        }, {
+            "address": "Grandview St 3270, 78705 Austin",
+            "coordinates": [-97.74421, 30.30149, 0],
+            "engineType": "CE",
+            "exterior": "GOOD",
+            "fuel": 69,
+            "interior": "GOOD",
+            "name": "FGZ 8688",
+            "smartPhoneRequired": false,
+            "vin": "WMEEJ3BA6FK802707"
+        }, {
+            "address": "S Lamar Blvd 3585, 78704 Austin",
+            "coordinates": [-97.78743, 30.23926, 0],
+            "engineType": "CE",
+            "exterior": "GOOD",
+            "fuel": 93,
+            "interior": "GOOD",
+            "name": "FJC 9925",
+            "smartPhoneRequired": false,
+            "vin": "WMEEJ3BAXFK800989"
+        }, {
+            "address": "Burnet Rd 4216, 78756 Austin",
+            "coordinates": [-97.74373, 30.31201, 0],
+            "engineType": "CE",
+            "exterior": "GOOD",
+            "fuel": 63,
+            "interior": "GOOD",
+            "name": "FHB 1330",
+            "smartPhoneRequired": false,
+            "vin": "WMEEJ3BA9FK801664"
+        }, {
+            "address": "Jewell St 1123, 78704 Austin",
+            "coordinates": [-97.7608, 30.25257, 0],
+            "engineType": "CE",
+            "exterior": "GOOD",
+            "fuel": 96,
+            "interior": "GOOD",
+            "name": "FHB 1334",
+            "smartPhoneRequired": false,
+            "vin": "WMEEJ3BAXFK800541"
+        }, {
+            "address": "Marathon Blvd 4224, 78756 Austin",
+            "coordinates": [-97.74086, 30.31068, 0],
+            "engineType": "CE",
+            "exterior": "GOOD",
+            "fuel": 72,
+            "interior": "GOOD",
+            "name": "FGZ 8800",
+            "smartPhoneRequired": false,
+            "vin": "WMEEJ3BA1FK801576"
+        }, {
+            "address": "E 2nd St 1483, 78702 Austin",
+            "coordinates": [-97.72937, 30.25979, 0],
+            "engineType": "CE",
+            "exterior": "GOOD",
+            "fuel": 96,
+            "interior": "UNACCEPTABLE",
+            "name": "FGZ 8813",
+            "smartPhoneRequired": false,
+            "vin": "WMEEJ3BA8FK802417"
+        }, {
+            "address": "Woodward St 2040, 78741 Austin",
+            "coordinates": [-97.74379, 30.21692, 0],
+            "engineType": "CE",
+            "exterior": "GOOD",
+            "fuel": 48,
+            "interior": "GOOD",
+            "name": "FHB 2848",
+            "smartPhoneRequired": false,
+            "vin": "WMEEJ3BA1FK802226"
+        }, {
+            "address": "Waller St 1118, 78702 Austin",
+            "coordinates": [-97.72887, 30.26929, 0],
+            "engineType": "CE",
+            "exterior": "GOOD",
+            "fuel": 90,
+            "interior": "GOOD",
+            "name": "FHB 1327",
+            "smartPhoneRequired": false,
+            "vin": "WMEEJ3BAXFK801754"
+        }, {
+            "address": "E 42nd St 559, 78751 Austin",
+            "coordinates": [-97.72648, 30.30279, 0],
+            "engineType": "CE",
+            "exterior": "GOOD",
+            "fuel": 100,
+            "interior": "GOOD",
+            "name": "FHB 2863",
+            "smartPhoneRequired": false,
+            "vin": "WMEEJ3BA3FK802325"
+        }, {
+            "address": "Jefferson St 3805, 78731 Austin",
+            "coordinates": [-97.75024, 30.30967, 0],
+            "engineType": "CE",
+            "exterior": "UNACCEPTABLE",
+            "fuel": 96,
+            "interior": "GOOD",
+            "name": "FJC 9779",
+            "smartPhoneRequired": false,
+            "vin": "WMEEJ3BA0FK802847"
+        }, {
+            "address": "Cameron Rd 5405, 78723 Austin",
+            "coordinates": [-97.70595, 30.31162, 0],
+            "engineType": "CE",
+            "exterior": "GOOD",
+            "fuel": 57,
+            "interior": "GOOD",
+            "name": "FFD 6224",
+            "smartPhoneRequired": false,
+            "vin": "WMEEJ3BA6FK801606"
+        }, {
+            "address": "W 17th St 790, 78701 Austin",
+            "coordinates": [-97.74644, 30.28096, 0],
+            "engineType": "CE",
+            "exterior": "GOOD",
+            "fuel": 84,
+            "interior": "GOOD",
+            "name": "FHB 2859",
+            "smartPhoneRequired": false,
+            "vin": "WMEEJ3BA4FK801975"
+        }, {
+            "address": "E 6th St 2036, 78702 Austin",
+            "coordinates": [-97.72067, 30.26115, 0],
+            "engineType": "CE",
+            "exterior": "GOOD",
+            "fuel": 39,
+            "interior": "GOOD",
+            "name": "FJC 9933",
+            "smartPhoneRequired": false,
+            "vin": "WMEEJ3BAXFK801558"
+        }, {
+            "address": "Esperanza Xing 3172, 78758 Austin",
+            "coordinates": [-97.7229, 30.39959, 0],
+            "engineType": "CE",
+            "exterior": "GOOD",
+            "fuel": 96,
+            "interior": "GOOD",
+            "name": "FJD 0199",
+            "smartPhoneRequired": false,
+            "vin": "WMEEJ3BA3FK802874"
+        }, {
+            "address": "Norwalk Ln 1448, 78703 Austin",
+            "coordinates": [-97.77182, 30.28968, 0],
+            "engineType": "CE",
+            "exterior": "GOOD",
+            "fuel": 81,
+            "interior": "GOOD",
+            "name": "FHB 2835",
+            "smartPhoneRequired": false,
+            "vin": "WMEEJ3BA7FK802103"
+        }, {
+            "address": "Indio Dr 5343, 78745 Austin",
+            "coordinates": [-97.80491, 30.2227, 0],
+            "engineType": "CE",
+            "exterior": "UNACCEPTABLE",
+            "fuel": 72,
+            "interior": "UNACCEPTABLE",
+            "name": "FHB 2862",
+            "smartPhoneRequired": false,
+            "vin": "WMEEJ3BA1FK802274"
+        }, {
+            "address": "Norwalk Ln 1354, 78703 Austin",
+            "coordinates": [-97.77238, 30.28863, 0],
+            "engineType": "CE",
+            "exterior": "UNACCEPTABLE",
+            "fuel": 45,
+            "interior": "UNACCEPTABLE",
+            "name": "FGZ 8689",
+            "smartPhoneRequired": false,
+            "vin": "WMEEJ3BAXFK802161"
+        }, {
+            "address": "E 2nd St 1935, 78702 Austin",
+            "coordinates": [-97.72384, 30.25786, 0],
+            "engineType": "CE",
+            "exterior": "GOOD",
+            "fuel": 51,
+            "interior": "GOOD",
+            "name": "FHB 2826",
+            "smartPhoneRequired": false,
+            "vin": "WMEEJ3BAXFK802547"
+        }, {
+            "address": "Govalle Ave 2935, 78702 Austin",
+            "coordinates": [-97.70488, 30.26697, 0],
+            "engineType": "CE",
+            "exterior": "GOOD",
+            "fuel": 100,
+            "interior": "GOOD",
+            "name": "FHB 1333",
+            "smartPhoneRequired": false,
+            "vin": "WMEEJ3BA6FK800603"
+        }, {
+            "address": "Overbrook Dr 5645, 78723 Austin",
+            "coordinates": [-97.6813, 30.30365, 0],
+            "engineType": "CE",
+            "exterior": "GOOD",
+            "fuel": 96,
+            "interior": "GOOD",
+            "name": "FHB 2856",
+            "smartPhoneRequired": false,
+            "vin": "WMEEJ3BA0FK801410"
+        }, {
+            "address": "900 E 41 St - Hancock Center",
+            "coordinates": [-97.7217, 30.29944, 0],
+            "engineType": "CE",
+            "exterior": "GOOD",
+            "fuel": 48,
+            "interior": "GOOD",
+            "name": "FGZ 8681",
+            "smartPhoneRequired": false,
+            "vin": "WMEEJ3BA2FK802719"
+        }, {
+            "address": "Lake Austin Blvd 3621, 78703 Austin",
+            "coordinates": [-97.78366, 30.29309, 0],
+            "engineType": "CE",
+            "exterior": "UNACCEPTABLE",
+            "fuel": 54,
+            "interior": "UNACCEPTABLE",
+            "name": "FJD 0200",
+            "smartPhoneRequired": false,
+            "vin": "WMEEJ3BA4FK802866"
+        }, {
+            "address": "Gate Tree Ln 573, 78745 Austin",
+            "coordinates": [-97.78012, 30.20978, 0],
+            "engineType": "CE",
+            "exterior": "GOOD",
+            "fuel": 72,
+            "interior": "GOOD",
+            "name": "FHB 2866",
+            "smartPhoneRequired": false,
+            "vin": "WMEEJ3BAXFK802502"
+        }, {
+            "address": "St. Edward's Parking",
+            "coordinates": [-97.7513, 30.22659, 0],
+            "engineType": "CE",
+            "exterior": "GOOD",
+            "fuel": 87,
+            "interior": "GOOD",
+            "name": "FHB 1328",
+            "smartPhoneRequired": false,
+            "vin": "WMEEJ3BA0FK801701"
+        }, {
+            "address": "Parker Ln 2656, 78741 Austin",
+            "coordinates": [-97.73934, 30.22904, 0],
+            "engineType": "CE",
+            "exterior": "GOOD",
+            "fuel": 45,
+            "interior": "GOOD",
+            "name": "FHB 0203",
+            "smartPhoneRequired": false,
+            "vin": "WMEEJ3BA6FK802268"
+        }, {
+            "address": "Hill Wood Dr 891, 78745 Austin",
+            "coordinates": [-97.78141, 30.21593, 0],
+            "engineType": "CE",
+            "exterior": "GOOD",
+            "fuel": 78,
+            "interior": "GOOD",
+            "name": "FGZ 8624",
+            "smartPhoneRequired": false,
+            "vin": "WMEEJ3BA5FK802777"
+        }, {
+            "address": "S Mo-Pac Expy, 78746 Austin",
+            "coordinates": [-97.77213, 30.27278, 0],
+            "engineType": "CE",
+            "exterior": "GOOD",
+            "fuel": 36,
+            "interior": "GOOD",
+            "name": "FHB 0174",
+            "smartPhoneRequired": false,
+            "vin": "WMEEJ3BA3FK803197"
+        }, {
+            "address": "Cromwell Cir 2450, 78741 Austin",
+            "coordinates": [-97.72094, 30.2261, 0],
+            "engineType": "CE",
+            "exterior": "GOOD",
+            "fuel": 57,
+            "interior": "GOOD",
+            "name": "FHB 0201",
+            "smartPhoneRequired": false,
+            "vin": "WMEEJ3BA9FK802121"
+        }, {
+            "address": "W 8th St 621, 78701 Austin",
+            "coordinates": [-97.74797, 30.27152, 0],
+            "engineType": "CE",
+            "exterior": "UNACCEPTABLE",
+            "fuel": 100,
+            "interior": "GOOD",
+            "name": "FHB 2860",
+            "smartPhoneRequired": false,
+            "vin": "WMEEJ3BA3FK802079"
+        }, {
+            "address": "E Riverside Dr 1574, 78741 Austin",
+            "coordinates": [-97.73209, 30.24673, 0],
+            "engineType": "CE",
+            "exterior": "GOOD",
+            "fuel": 75,
+            "interior": "GOOD",
+            "name": "FGZ 8679",
+            "smartPhoneRequired": false,
+            "vin": "WMEEJ3BA8FK802336"
+        }, {
+            "address": "S 1st St 1733, 78704 Austin",
+            "coordinates": [-97.75551, 30.24809, 0],
+            "engineType": "CE",
+            "exterior": "GOOD",
+            "fuel": 93,
+            "interior": "GOOD",
+            "name": "FJC 9939",
+            "smartPhoneRequired": false,
+            "vin": "WMEEJ3BAXFK801916"
+        }, {
+            "address": "W 18th St 311, 78701 Austin",
+            "coordinates": [-97.74137, 30.28045, 0],
+            "engineType": "CE",
+            "exterior": "GOOD",
+            "fuel": 100,
+            "interior": "GOOD",
+            "name": "FGZ 8680",
+            "smartPhoneRequired": false,
+            "vin": "WMEEJ3BA5FK802696"
+        }, {
+            "address": "Waller St 616, 78702 Austin",
+            "coordinates": [-97.73039, 30.26455, 0],
+            "engineType": "CE",
+            "exterior": "GOOD",
+            "fuel": 60,
+            "interior": "GOOD",
+            "name": "FGZ 8805",
+            "smartPhoneRequired": false,
+            "vin": "WMEEJ3BA7FK800304"
+        }, {
+            "address": "St Elmo Rd W 448, 78745 Austin",
+            "coordinates": [-97.77101, 30.22021, 0],
+            "engineType": "CE",
+            "exterior": "GOOD",
+            "fuel": 39,
+            "interior": "GOOD",
+            "name": "FHB 2839",
+            "smartPhoneRequired": false,
+            "vin": "WMEEJ3BA0FK801603"
+        }, {
+            "address": "W 37th St 457, 78705 Austin",
+            "coordinates": [-97.73726, 30.30127, 0],
+            "engineType": "CE",
+            "exterior": "GOOD",
+            "fuel": 93,
+            "interior": "GOOD",
+            "name": "FHB 2841",
+            "smartPhoneRequired": false,
+            "vin": "WMEEJ3BA3FK800946"
+        }, {
+            "address": "Esperanza Xing 3141, 78758 Austin",
+            "coordinates": [-97.72271, 30.39929, 0],
+            "engineType": "CE",
+            "exterior": "GOOD",
+            "fuel": 78,
+            "interior": "GOOD",
+            "name": "FHB 2864",
+            "smartPhoneRequired": false,
+            "vin": "WMEEJ3BA4FK802351"
+        }, {
+            "address": "Adriane Dr 1742, 78721 Austin",
+            "coordinates": [-97.69123, 30.28341, 0],
+            "engineType": "CE",
+            "exterior": "GOOD",
+            "fuel": 60,
+            "interior": "GOOD",
+            "name": "FJC 9791",
+            "smartPhoneRequired": false,
+            "vin": "WMEEJ3BA0FK802055"
+        }, {
+            "address": "Bouldin Ave 1818, 78704 Austin",
+            "coordinates": [-97.76022, 30.24863, 0],
+            "engineType": "CE",
+            "exterior": "GOOD",
+            "fuel": 51,
+            "interior": "GOOD",
+            "name": "FGZ 8629",
+            "smartPhoneRequired": false,
+            "vin": "WMEEJ3BA9FK802300"
+        }, {
+            "address": "Rogge Ln 2909, 78723 Austin",
+            "coordinates": [-97.68113, 30.30443, 0],
+            "engineType": "CE",
+            "exterior": "GOOD",
+            "fuel": 48,
+            "interior": "GOOD",
+            "name": "FHB 1676",
+            "smartPhoneRequired": false,
+            "vin": "WMEEJ3BA6FK802724"
+        }, {
+            "address": "Alpine Rd W 237, 78704 Austin",
+            "coordinates": [-97.76302, 30.22896, 0],
+            "engineType": "CE",
+            "exterior": "GOOD",
+            "fuel": 100,
+            "interior": "GOOD",
+            "name": "FFD 7793",
+            "smartPhoneRequired": false,
+            "vin": "WMEEJ3BA4FK801474"
+        }, {
+            "address": "Merrie Lynn Ave 3340, 78722 Austin",
+            "coordinates": [-97.7123, 30.28669, 0],
+            "engineType": "CE",
+            "exterior": "GOOD",
+            "fuel": 45,
+            "interior": "GOOD",
+            "name": "FFD 7840",
+            "smartPhoneRequired": false,
+            "vin": "WMEEJ3BA2FK803210"
+        }, {
+            "address": "Uptown Crossing",
+            "coordinates": [-97.71016, 30.31976, 0],
+            "engineType": "CE",
+            "exterior": "GOOD",
+            "fuel": 93,
+            "interior": "GOOD",
+            "name": "FHB 0200",
+            "smartPhoneRequired": false,
+            "vin": "WMEEJ3BA7FK801825"
+        }, {
+            "address": "E 3rd St 1250, 78702 Austin",
+            "coordinates": [-97.73124, 30.26155, 0],
+            "engineType": "CE",
+            "exterior": "GOOD",
+            "fuel": 100,
+            "interior": "GOOD",
+            "name": "FHB 1331",
+            "smartPhoneRequired": false,
+            "vin": "WMEEJ3BA8FK801171"
+        }, {
+            "address": "LCRA - Trade Center Dr",
+            "coordinates": [-97.71414, 30.20749, 0],
+            "engineType": "CE",
+            "exterior": "GOOD",
+            "fuel": 100,
+            "interior": "GOOD",
+            "name": "FHB 0202",
+            "smartPhoneRequired": false,
+            "vin": "WMEEJ3BA6FK802271"
+        }, {
+            "address": "Ridgemont Dr 1213, 78723 Austin",
+            "coordinates": [-97.70346, 30.314, 0],
+            "engineType": "CE",
+            "exterior": "GOOD",
+            "fuel": 60,
+            "interior": "GOOD",
+            "name": "FGZ 8613",
+            "smartPhoneRequired": false,
+            "vin": "WMEEJ3BA0FK801357"
+        }, {
+            "address": "Chicon St 305, 78702 Austin",
+            "coordinates": [-97.72341, 30.25917, 0],
+            "engineType": "CE",
+            "exterior": "GOOD",
+            "fuel": 100,
+            "interior": "GOOD",
+            "name": "FGZ 8803",
+            "smartPhoneRequired": false,
+            "vin": "WMEEJ3BA5FK801483"
+        }, {
+            "address": "Adams Ave 5689, 78756 Austin",
+            "coordinates": [-97.73907, 30.33132, 0],
+            "engineType": "CE",
+            "exterior": "GOOD",
+            "fuel": 100,
+            "interior": "GOOD",
+            "name": "FJC 9789",
+            "smartPhoneRequired": false,
+            "vin": "WMEEJ3BAXFK802211"
+        }, {
+            "address": "Wood Hollow Dr 7226, 78731 Austin",
+            "coordinates": [-97.75162, 30.35579, 0],
+            "engineType": "CE",
+            "exterior": "GOOD",
+            "fuel": 100,
+            "interior": "GOOD",
+            "name": "FJC 9788",
+            "smartPhoneRequired": false,
+            "vin": "WMEEJ3BA6FK802318"
+        }, {
+            "address": "Sagebrush Trl 4652, 78745 Austin",
+            "coordinates": [-97.79978, 30.22827, 0],
+            "engineType": "CE",
+            "exterior": "GOOD",
+            "fuel": 45,
+            "interior": "GOOD",
+            "name": "FJC 9929",
+            "smartPhoneRequired": false,
+            "vin": "WMEEJ3BA0FK801293"
+        }, {
+            "address": "E 8th St 1603, 78702 Austin",
+            "coordinates": [-97.72557, 30.26477, 0],
+            "engineType": "CE",
+            "exterior": "GOOD",
+            "fuel": 72,
+            "interior": "GOOD",
+            "name": "FJD 0198",
+            "smartPhoneRequired": false,
+            "vin": "WMEEJ3BA8FK802899"
+        }, {
+            "address": "Indio Cir 5316, 78745 Austin",
+            "coordinates": [-97.80462, 30.22284, 0],
+            "engineType": "CE",
+            "exterior": "GOOD",
+            "fuel": 60,
+            "interior": "GOOD",
+            "name": "FGZ 8811",
+            "smartPhoneRequired": false,
+            "vin": "WMEEJ3BAXFK802287"
+        }, {
+            "address": "Oxford Ave 2153, 78704 Austin",
+            "coordinates": [-97.77121, 30.24862, 0],
+            "engineType": "CE",
+            "exterior": "GOOD",
+            "fuel": 42,
+            "interior": "GOOD",
+            "name": "FGZ 8687",
+            "smartPhoneRequired": false,
+            "vin": "WMEEJ3BA5FK802746"
+        }, {
+            "address": "Avenue F 5470, 78751 Austin",
+            "coordinates": [-97.71994, 30.31958, 0],
+            "engineType": "CE",
+            "exterior": "GOOD",
+            "fuel": 45,
+            "interior": "GOOD",
+            "name": "FGZ 8802",
+            "smartPhoneRequired": false,
+            "vin": "WMEEJ3BA5FK801502"
+        }, {
+            "address": "S Mo-Pac Expy 887, 78746 Austin",
+            "coordinates": [-97.78043, 30.26593, 0],
+            "engineType": "CE",
+            "exterior": "GOOD",
+            "fuel": 100,
+            "interior": "GOOD",
+            "name": "FHB 2868",
+            "smartPhoneRequired": false,
+            "vin": "WMEEJ3BA4FK802561"
+        }, {
+            "address": "Chiappero Trl 4532, 78731 Austin",
+            "coordinates": [-97.75046, 30.32047, 0],
+            "engineType": "CE",
+            "exterior": "GOOD",
+            "fuel": 48,
+            "interior": "GOOD",
+            "name": "FHB 2830",
+            "smartPhoneRequired": false,
+            "vin": "WMEEJ3BAXFK800670"
+        }, {
+            "address": "Ridgemont Dr 1651, 78723 Austin",
+            "coordinates": [-97.69581, 30.3102, 0],
+            "engineType": "CE",
+            "exterior": "GOOD",
+            "fuel": 54,
+            "interior": "GOOD",
+            "name": "FJD 0194",
+            "smartPhoneRequired": false,
+            "vin": "WMEEJ3BA5FK801886"
+        }, {
+            "address": "Town Lake Cir 2313, 78741 Austin",
+            "coordinates": [-97.72407, 30.23971, 0],
+            "engineType": "CE",
+            "exterior": "UNACCEPTABLE",
+            "fuel": 100,
+            "interior": "UNACCEPTABLE",
+            "name": "FHB 1329",
+            "smartPhoneRequired": false,
+            "vin": "WMEEJ3BA6FK801671"
+        }, {
+            "address": "Wadford St 3814, 78704 Austin",
+            "coordinates": [-97.76378, 30.22581, 0],
+            "engineType": "CE",
+            "exterior": "GOOD",
+            "fuel": 100,
+            "interior": "GOOD",
+            "name": "FHB 2834",
+            "smartPhoneRequired": false,
+            "vin": "WMEEJ3BA5FK802021"
+        }, {
+            "address": "W 46th St 860, 78751 Austin",
+            "coordinates": [-97.73537, 30.31473, 0],
+            "engineType": "CE",
+            "exterior": "GOOD",
+            "fuel": 66,
+            "interior": "GOOD",
+            "name": "FHB 1680",
+            "smartPhoneRequired": false,
+            "vin": "WMEEJ3BA6FK802237"
+        }, {
+            "address": "Oak Cliff Dr 4617, 78721 Austin",
+            "coordinates": [-97.68313, 30.28479, 0],
+            "engineType": "CE",
+            "exterior": "GOOD",
+            "fuel": 72,
+            "interior": "GOOD",
+            "name": "FGZ 8846",
+            "smartPhoneRequired": false,
+            "vin": "WMEEJ3BA4FK802883"
+        }, {
+            "address": "5th St S 1742, 78704 Austin",
+            "coordinates": [-97.76101, 30.24998, 0],
+            "engineType": "CE",
+            "exterior": "GOOD",
+            "fuel": 100,
+            "interior": "GOOD",
+            "name": "FGZ 8801",
+            "smartPhoneRequired": false,
+            "vin": "WMEEJ3BA8FK801526"
+        }, {
+            "address": "Stobaugh St 819, 78757 Austin",
+            "coordinates": [-97.71393, 30.3465, 0],
+            "engineType": "CE",
+            "exterior": "GOOD",
+            "fuel": 45,
+            "interior": "GOOD",
+            "name": "FHB 1337",
+            "smartPhoneRequired": false,
+            "vin": "WMEEJ3BA6FK800391"
+        }, {
+            "address": "Hollow Creek Dr 1260, 78704 Austin",
+            "coordinates": [-97.7736, 30.26024, 0],
+            "engineType": "CE",
+            "exterior": "GOOD",
+            "fuel": 33,
+            "interior": "GOOD",
+            "name": "FHB 0244",
+            "smartPhoneRequired": false,
+            "vin": "WMEEJ3BAXFK800765"
+        }, {
+            "address": "W 14th St 341, 78701 Austin",
+            "coordinates": [-97.74277, 30.27671, 0],
+            "engineType": "CE",
+            "exterior": "GOOD",
+            "fuel": 100,
+            "interior": "GOOD",
+            "name": "FHB 2857",
+            "smartPhoneRequired": false,
+            "vin": "WMEEJ3BA5FK801418"
+        }, {
+            "address": "E 14th St 3150, 78702 Austin",
+            "coordinates": [-97.70206, 30.27812, 0],
+            "engineType": "CE",
+            "exterior": "GOOD",
+            "fuel": 100,
+            "interior": "GOOD",
+            "name": "FGZ 8810",
+            "smartPhoneRequired": false,
+            "vin": "WMEEJ3BAXFK802189"
+        }, {
+            "address": "Indio Cir 5300, 78745 Austin",
+            "coordinates": [-97.80452, 30.22292, 0],
+            "engineType": "CE",
+            "exterior": "UNACCEPTABLE",
+            "fuel": 60,
+            "interior": "UNACCEPTABLE",
+            "name": "FHB 2833",
+            "smartPhoneRequired": false,
+            "vin": "WMEEJ3BA7FK802263"
+        }, {
+            "address": "Avenue A 4136, 78751 Austin",
+            "coordinates": [-97.73462, 30.30636, 0],
+            "engineType": "CE",
+            "exterior": "GOOD",
+            "fuel": 45,
+            "interior": "GOOD",
+            "name": "FHB 2842",
+            "smartPhoneRequired": false,
+            "vin": "WMEEJ3BA8FK800800"
+        }, {
+            "address": "E 13th St 2942, 78702 Austin",
+            "coordinates": [-97.70619, 30.27704, 0],
+            "engineType": "CE",
+            "exterior": "GOOD",
+            "fuel": 36,
+            "interior": "GOOD",
+            "name": "FJD 0195",
+            "smartPhoneRequired": false,
+            "vin": "WMEEJ3BA6FK801721"
+        }, {
+            "address": "Elmont Dr 4703, 78741 Austin",
+            "coordinates": [-97.71626, 30.23721, 0],
+            "engineType": "CE",
+            "exterior": "GOOD",
+            "fuel": 21,
+            "interior": "GOOD",
+            "name": "FJC 9784",
+            "smartPhoneRequired": false,
+            "vin": "WMEEJ3BA9FK802605"
+        }, {
+            "address": "Branch St 1118, 78702 Austin",
+            "coordinates": [-97.73144, 30.27028, 0],
+            "engineType": "CE",
+            "exterior": "GOOD",
+            "fuel": 60,
+            "interior": "GOOD",
+            "name": "FGZ 8626",
+            "smartPhoneRequired": false,
+            "vin": "WMEEJ3BA6FK802495"
+        }, {
+            "address": "E Riverside Dr 1572, 78741 Austin",
+            "coordinates": [-97.7321, 30.24674, 0],
+            "engineType": "CE",
+            "exterior": "GOOD",
+            "fuel": 51,
+            "interior": "GOOD",
+            "name": "FHB 0205",
+            "smartPhoneRequired": false,
+            "vin": "WMEEJ3BA9FK802183"
+        }, {
+            "address": "The Establishment",
+            "coordinates": [-97.76542, 30.23024, 0],
+            "engineType": "CE",
+            "exterior": "GOOD",
+            "fuel": 100,
+            "interior": "GOOD",
+            "name": "FHB 2827",
+            "smartPhoneRequired": false,
+            "vin": "WMEEJ3BA9FK802670"
+        }, {
+            "address": "The Connection",
+            "coordinates": [-97.72642, 30.22726, 0],
+            "engineType": "CE",
+            "exterior": "GOOD",
+            "fuel": 36,
+            "interior": "GOOD",
+            "name": "FGZ 8809",
+            "smartPhoneRequired": false,
+            "vin": "WMEEJ3BA8FK802093"
+        }, {
+            "address": "Avenue B 3802, 78751 Austin",
+            "coordinates": [-97.73619, 30.30209, 0],
+            "engineType": "CE",
+            "exterior": "GOOD",
+            "fuel": 42,
+            "interior": "GOOD",
+            "name": "FHB 2831",
+            "smartPhoneRequired": false,
+            "vin": "WMEEJ3BA9FK801051"
+        }, {
+            "address": "Alameda Dr 1128, 78704 Austin",
+            "coordinates": [-97.74076, 30.25042, 0],
+            "engineType": "CE",
+            "exterior": "GOOD",
+            "fuel": 51,
+            "interior": "GOOD",
+            "name": "FGZ 8628",
+            "smartPhoneRequired": false,
+            "vin": "WMEEJ3BA8FK802370"
+        }, {
+            "address": "San Marcos St 946, 78702 Austin",
+            "coordinates": [-97.73126, 30.26835, 0],
+            "engineType": "CE",
+            "exterior": "GOOD",
+            "fuel": 100,
+            "interior": "GOOD",
+            "name": "FHB 2832",
+            "smartPhoneRequired": false,
+            "vin": "WMEEJ3BA9FK801907"
+        }, {
+            "address": "Run of the Oaks St 3890, 78704 Austin",
+            "coordinates": [-97.77915, 30.23081, 0],
+            "engineType": "CE",
+            "exterior": "GOOD",
+            "fuel": 63,
+            "interior": "GOOD",
+            "name": "FHB 2829",
+            "smartPhoneRequired": false,
+            "vin": "WMEEJ3BA9FK802796"
+        }, {
+            "address": "Sagebrush Trl 4674, 78745 Austin",
+            "coordinates": [-97.80009, 30.22801, 0],
+            "engineType": "CE",
+            "exterior": "GOOD",
+            "fuel": 45,
+            "interior": "GOOD",
+            "name": "FHB 2828",
+            "smartPhoneRequired": false,
+            "vin": "WMEEJ3BA6FK802772"
+        }, {
+            "address": "E 37th St 156, 78705 Austin",
+            "coordinates": [-97.73364, 30.29985, 0],
+            "engineType": "CE",
+            "exterior": "GOOD",
+            "fuel": 54,
+            "interior": "GOOD",
+            "name": "FGZ 8685",
+            "smartPhoneRequired": false,
+            "vin": "WMEEJ3BA1FK803165"
+        }, {
+            "address": "Pleasant Valley Rd N 841, 78702 Austin",
+            "coordinates": [-97.70755, 30.26518, 0],
+            "engineType": "CE",
+            "exterior": "GOOD",
+            "fuel": 63,
+            "interior": "GOOD",
+            "name": "FGZ 8623",
+            "smartPhoneRequired": false,
+            "vin": "WMEEJ3BA4FK802835"
+        }, {
+            "address": "Willow Hill Dr 2523, 78741 Austin",
+            "coordinates": [-97.72507, 30.23317, 0],
+            "engineType": "CE",
+            "exterior": "GOOD",
+            "fuel": 78,
+            "interior": "GOOD",
+            "name": "FGZ 8815",
+            "smartPhoneRequired": false,
+            "vin": "WMEEJ3BAXFK801544"
+        }, {
+            "address": "Swenson Ave 1030, 78702 Austin",
+            "coordinates": [-97.71634, 30.26526, 0],
+            "engineType": "CE",
+            "exterior": "GOOD",
+            "fuel": 100,
+            "interior": "GOOD",
+            "name": "FJD 0196",
+            "smartPhoneRequired": false,
+            "vin": "WMEEJ3BA9FK800532"
+        }, {
+            "address": "Schriber St 2244, 78704 Austin",
+            "coordinates": [-97.74325, 30.23533, 0],
+            "engineType": "CE",
+            "exterior": "GOOD",
+            "fuel": 54,
+            "interior": "GOOD",
+            "name": "FHB 0248",
+            "smartPhoneRequired": false,
+            "vin": "WMEEJ3BA6FK802643"
+        }, {
+            "address": "Delano St 1308, 78721 Austin",
+            "coordinates": [-97.67908, 30.27629, 0],
+            "engineType": "CE",
+            "exterior": "GOOD",
+            "fuel": 100,
+            "interior": "GOOD",
+            "name": "FHB 2844",
+            "smartPhoneRequired": false,
+            "vin": "WMEEJ3BA0FK801990"
+        }, {
+            "address": "Attayac St 486, 78702 Austin",
+            "coordinates": [-97.72979, 30.26343, 0],
+            "engineType": "CE",
+            "exterior": "GOOD",
+            "fuel": 48,
+            "interior": "GOOD",
+            "name": "FHB 2845",
+            "smartPhoneRequired": false,
+            "vin": "WMEEJ3BA4FK801863"
+        }, {
+            "address": "E 6th St 1257, 78702 Austin",
+            "coordinates": [-97.72992, 30.26418, 0],
+            "engineType": "CE",
+            "exterior": "GOOD",
+            "fuel": 60,
+            "interior": "GOOD",
+            "name": "FHB 2847",
+            "smartPhoneRequired": false,
+            "vin": "WMEEJ3BA4FK802009"
+        }, {
+            "address": "Roxmoor Dr 2533, 78723 Austin",
+            "coordinates": [-97.68419, 30.30684, 0],
+            "engineType": "CE",
+            "exterior": "GOOD",
+            "fuel": 60,
+            "interior": "GOOD",
+            "name": "FHB 0246",
+            "smartPhoneRequired": false,
+            "vin": "WMEEJ3BA4FK802043"
+        }, {
+            "address": "Faro Dr 1560, 78741 Austin",
+            "coordinates": [-97.71274, 30.23397, 0],
+            "engineType": "CE",
+            "exterior": "GOOD",
+            "fuel": 63,
+            "interior": "GOOD",
+            "name": "FHB 1336",
+            "smartPhoneRequired": false,
+            "vin": "WMEEJ3BA0FK800404"
+        }, {
+            "address": "Chelsea Ln 1660, 78704 Austin",
+            "coordinates": [-97.73914, 30.2426, 0],
+            "engineType": "CE",
+            "exterior": "GOOD",
+            "fuel": 100,
+            "interior": "GOOD",
+            "name": "FHB 2843",
+            "smartPhoneRequired": false,
+            "vin": "WMEEJ3BA3FK801840"
+        }, {
+            "address": "Platinum Apartments",
+            "coordinates": [-97.76956, 30.20093, 0],
+            "engineType": "CE",
+            "exterior": "GOOD",
+            "fuel": 60,
+            "interior": "GOOD",
+            "name": "FGZ 8807",
+            "smartPhoneRequired": false,
+            "vin": "WMEEJ3BA8FK801932"
+        }, {
+            "address": "Lake Austin Blvd 3871, 78703 Austin",
+            "coordinates": [-97.78386, 30.29586, 0],
+            "engineType": "CE",
+            "exterior": "GOOD",
+            "fuel": 84,
+            "interior": "GOOD",
+            "name": "FHB 0245",
+            "smartPhoneRequired": false,
+            "vin": "WMEEJ3BA6FK800908"
+        }, {
+            "address": "S Congress Ave 2006, 78704 Austin",
+            "coordinates": [-97.75213, 30.24381, 0],
+            "engineType": "CE",
+            "exterior": "GOOD",
+            "fuel": 33,
+            "interior": "GOOD",
+            "name": "FHB 0243",
+            "smartPhoneRequired": false,
+            "vin": "WMEEJ3BA2FK799983"
+        }, {
+            "address": "Alpine Rd W 583, 78704 Austin",
+            "coordinates": [-97.76663, 30.2306, 0],
+            "engineType": "CE",
+            "exterior": "GOOD",
+            "fuel": 48,
+            "interior": "GOOD",
+            "name": "FHB 2840",
+            "smartPhoneRequired": false,
+            "vin": "WMEEJ3BA4FK801815"
+        }, {
+            "address": "E 14th St 1922, 78702 Austin",
+            "coordinates": [-97.72008, 30.27578, 0],
+            "engineType": "CE",
+            "exterior": "GOOD",
+            "fuel": 39,
+            "interior": "GOOD",
+            "name": "FJC 9782",
+            "smartPhoneRequired": false,
+            "vin": "WMEEJ3BA4FK802690"
+        }, {
+            "address": "N Lamar Blvd 4653, 78756 Austin",
+            "coordinates": [-97.73505, 30.31533, 0],
+            "engineType": "CE",
+            "exterior": "GOOD",
+            "fuel": 100,
+            "interior": "GOOD",
+            "name": "FJC 9934",
+            "smartPhoneRequired": false,
+            "vin": "WMEEJ3BA2FK801568"
+        }, {
+            "address": "Collier St 1283, 78704 Austin",
+            "coordinates": [-97.7661, 30.25186, 0],
+            "engineType": "CE",
+            "exterior": "GOOD",
+            "fuel": 100,
+            "interior": "GOOD",
+            "name": "FGZ 8612",
+            "smartPhoneRequired": false,
+            "vin": "WMEEJ3BA6FK800455"
+        }, {
+            "address": "Birdwood Cir 3034, 78704 Austin",
+            "coordinates": [-97.77114, 30.23784, 0],
+            "engineType": "CE",
+            "exterior": "GOOD",
+            "fuel": 39,
+            "interior": "GOOD",
+            "name": "FHB 2869",
+            "smartPhoneRequired": false,
+            "vin": "WMEEJ3BAXFK802600"
+        }, {
+            "address": "W 34th St 1443, 78703 Austin",
+            "coordinates": [-97.75018, 30.30536, 0],
+            "engineType": "CE",
+            "exterior": "GOOD",
+            "fuel": 45,
+            "interior": "GOOD",
+            "name": "FHB 1677",
+            "smartPhoneRequired": false,
+            "vin": "WMEEJ3BA0FK802461"
+        }, {
+            "address": "Parker Ln 3182, 78741 Austin",
+            "coordinates": [-97.74225, 30.22309, 0],
+            "engineType": "CE",
+            "exterior": "GOOD",
+            "fuel": 72,
+            "interior": "GOOD",
+            "name": "FHB 2854",
+            "smartPhoneRequired": false,
+            "vin": "WMEEJ3BA4FK800020"
+        }, {
+            "address": "E 6th St 1160, 78702 Austin",
+            "coordinates": [-97.73085, 30.26459, 0],
+            "engineType": "CE",
+            "exterior": "GOOD",
+            "fuel": 100,
+            "interior": "GOOD",
+            "name": "FJC 9790",
+            "smartPhoneRequired": false,
+            "vin": "WMEEJ3BA5FK802066"
+        }, {
+            "address": "Schulle Ave 2158, 78703 Austin",
+            "coordinates": [-97.77585, 30.29926, 0],
+            "engineType": "CE",
+            "exterior": "GOOD",
+            "fuel": 57,
+            "interior": "GOOD",
+            "name": "FJC 9927",
+            "smartPhoneRequired": false,
+            "vin": "WMEEJ3BA8FK801218"
+        }, {
+            "address": "Willowrun Dr 3416, 78704 Austin",
+            "coordinates": [-97.75559, 30.22605, 0],
+            "engineType": "CE",
+            "exterior": "GOOD",
+            "fuel": 87,
+            "interior": "GOOD",
+            "name": "FHB 2825",
+            "smartPhoneRequired": false,
+            "vin": "WMEEJ3BA4FK802818"
+        }, {
+            "address": "Redd St 971, 78745 Austin",
+            "coordinates": [-97.77841, 30.2216, 0],
+            "engineType": "CE",
+            "exterior": "GOOD",
+            "fuel": 51,
+            "interior": "GOOD",
+            "name": "FJC 9935",
+            "smartPhoneRequired": false,
+            "vin": "WMEEJ3BAXFK801690"
+        }, {
+            "address": "Baylor St 380, 78703 Austin",
+            "coordinates": [-97.75647, 30.27021, 0],
+            "engineType": "CE",
+            "exterior": "GOOD",
+            "fuel": 24,
+            "interior": "GOOD",
+            "name": "FHB 2899",
+            "smartPhoneRequired": false,
+            "vin": "WMEEJ3BA0FK800676"
+        }, {
+            "address": "Enviromedia",
+            "coordinates": [-97.72059, 30.25969, 0],
+            "engineType": "CE",
+            "exterior": "GOOD",
+            "fuel": 100,
+            "interior": "GOOD",
+            "name": "FHB 2855",
+            "smartPhoneRequired": false,
+            "vin": "WMEEJ3BA8FK800487"
+        }, {
+            "address": "E 5th St 2127, 78702 Austin",
+            "coordinates": [-97.72002, 30.2596, 0],
+            "engineType": "CE",
+            "exterior": "UNACCEPTABLE",
+            "fuel": 30,
+            "interior": "GOOD",
+            "name": "FJC 9938",
+            "smartPhoneRequired": false,
+            "vin": "WMEEJ3BA3FK801871"
+        }, {
+            "address": "E 2nd St 2673, 78702 Austin",
+            "coordinates": [-97.71403, 30.2544, 0],
+            "engineType": "CE",
+            "exterior": "UNACCEPTABLE",
+            "fuel": 45,
+            "interior": "UNACCEPTABLE",
+            "name": "FJC 9792",
+            "smartPhoneRequired": false,
+            "vin": "WMEEJ3BAXFK802015"
+        }, {
+            "address": "Jefferson St 3598, 78731 Austin",
+            "coordinates": [-97.75143, 30.30834, 0],
+            "engineType": "CE",
+            "exterior": "GOOD",
+            "fuel": 75,
+            "interior": "GOOD",
+            "name": "FHB 2865",
+            "smartPhoneRequired": false,
+            "vin": "WMEEJ3BA3FK802468"
+        }, {
+            "address": "Kitty Ave 4627, 78721 Austin",
+            "coordinates": [-97.68406, 30.28327, 0],
+            "engineType": "CE",
+            "exterior": "GOOD",
+            "fuel": 45,
+            "interior": "GOOD",
+            "name": "FJD 0197",
+            "smartPhoneRequired": false,
+            "vin": "WMEEJ3BA2FK803045"
+        }, {
+            "address": "San Antonio St 2564, 78705 Austin",
+            "coordinates": [-97.74222, 30.29004, 0],
+            "engineType": "CE",
+            "exterior": "GOOD",
+            "fuel": 100,
+            "interior": "GOOD",
+            "name": "FGZ 8812",
+            "smartPhoneRequired": false,
+            "vin": "WMEEJ3BA9FK802345"
+        }, {
+            "address": "West Ave 1062, 78701 Austin",
+            "coordinates": [-97.74905, 30.27459, 0],
+            "engineType": "CE",
+            "exterior": "GOOD",
+            "fuel": 72,
+            "interior": "GOOD",
+            "name": "FJC 9926",
+            "smartPhoneRequired": false,
+            "vin": "WMEEJ3BA2FK801196"
+        }, {
+            "address": "Nueces St 2514, 78705 Austin",
+            "coordinates": [-97.74294, 30.28937, 0],
+            "engineType": "CE",
+            "exterior": "GOOD",
+            "fuel": 78,
+            "interior": "GOOD",
+            "name": "FHB 2867",
+            "smartPhoneRequired": false,
+            "vin": "WMEEJ3BA3FK802535"
+        }, {
+            "address": "E 5th St 3213, 78702 Austin",
+            "coordinates": [-97.70696, 30.25512, 0],
+            "engineType": "CE",
+            "exterior": "GOOD",
+            "fuel": 63,
+            "interior": "GOOD",
+            "name": "FHB 2838",
+            "smartPhoneRequired": false,
+            "vin": "WMEEJ3BA0FK800578"
+        }, {
+            "address": "Robert T Martinez Jr St 62, 78702 Austin",
+            "coordinates": [-97.72231, 30.25237, 0],
+            "engineType": "CE",
+            "exterior": "GOOD",
+            "fuel": 90,
+            "interior": "GOOD",
+            "name": "FHB 2858",
+            "smartPhoneRequired": false,
+            "vin": "WMEEJ3BA3FK801966"
+        }, {
+            "address": "Garnett St 4424, 78745 Austin",
+            "coordinates": [-97.76996, 30.21919, 0],
+            "engineType": "CE",
+            "exterior": "GOOD",
+            "fuel": 33,
+            "interior": "GOOD",
+            "name": "FJC 9928",
+            "smartPhoneRequired": false,
+            "vin": "WMEEJ3BA6FK801251"
+        }, {
+            "address": "Chicon St 1112, 78702 Austin",
+            "coordinates": [-97.72029, 30.26666, 0],
+            "engineType": "CE",
+            "exterior": "GOOD",
+            "fuel": 100,
+            "interior": "GOOD",
+            "name": "FGZ 8677",
+            "smartPhoneRequired": false,
+            "vin": "WMEEJ3BA1FK801948"
+        }, {
+            "address": "Englewood Dr 4668, 78745 Austin",
+            "coordinates": [-97.77817, 30.21786, 0],
+            "engineType": "CE",
+            "exterior": "GOOD",
+            "fuel": 66,
+            "interior": "GOOD",
+            "name": "FGZ 8615",
+            "smartPhoneRequired": false,
+            "vin": "WMEEJ3BA8FK802384"
+        }, {
+            "address": "The Zone Apartments",
+            "coordinates": [-97.71845, 30.23231, 0],
+            "engineType": "CE",
+            "exterior": "GOOD",
+            "fuel": 96,
+            "interior": "GOOD",
+            "name": "FHB 1550",
+            "smartPhoneRequired": false,
+            "vin": "WMEEJ3BA0FK801746"
+        }, {
+            "address": "Woodmont Ave 2195, 78703 Austin",
+            "coordinates": [-97.76491, 30.28984, 0],
+            "engineType": "CE",
+            "exterior": "GOOD",
+            "fuel": 48,
+            "interior": "GOOD",
+            "name": "FGZ 8678",
+            "smartPhoneRequired": false,
+            "vin": "WMEEJ3BA7FK802036"
+        }, {
+            "address": "The Parking Spot",
+            "coordinates": [-97.67598, 30.22049, 0],
+            "engineType": "CE",
+            "exterior": "GOOD",
+            "fuel": 36,
+            "interior": "GOOD",
+            "name": "FGZ 8621",
+            "smartPhoneRequired": false,
+            "vin": "WMEEJ3BA3FK802843"
+        }, {
+            "address": "Esperanza Xing 3249, 78758 Austin",
+            "coordinates": [-97.72419, 30.39984, 0],
+            "engineType": "CE",
+            "exterior": "GOOD",
+            "fuel": 63,
+            "interior": "GOOD",
+            "name": "FFD 7794",
+            "smartPhoneRequired": false,
+            "vin": "WMEEJ3BA9FK801650"
+        }, {
+            "address": "Hidden Holw 3755, 78731 Austin",
+            "coordinates": [-97.75353, 30.36172, 0],
+            "engineType": "CE",
+            "exterior": "GOOD",
+            "fuel": 39,
+            "interior": "GOOD",
+            "name": "FGZ 8808",
+            "smartPhoneRequired": false,
+            "vin": "WMEEJ3BA8FK802059"
+        }, {
+            "address": "Pressler St 518, 78703 Austin",
+            "coordinates": [-97.76069, 30.27295, 0],
+            "engineType": "CE",
+            "exterior": "GOOD",
+            "fuel": 39,
+            "interior": "UNACCEPTABLE",
+            "name": "FJC 9930",
+            "smartPhoneRequired": false,
+            "vin": "WMEEJ3BA4FK801328"
+        }, {
+            "address": "W 6th St 1616, 78703 Austin",
+            "coordinates": [-97.76335, 30.27572, 0],
+            "engineType": "CE",
+            "exterior": "GOOD",
+            "fuel": 54,
+            "interior": "GOOD",
+            "name": "FJC 9937",
+            "smartPhoneRequired": false,
+            "vin": "WMEEJ3BA3FK801790"
+        }, {
+            "address": "Fair Oaks Dr 2259, 78745 Austin",
+            "coordinates": [-97.79819, 30.22103, 0],
+            "engineType": "CE",
+            "exterior": "GOOD",
+            "fuel": 39,
+            "interior": "GOOD",
+            "name": "FHB 0204",
+            "smartPhoneRequired": false,
+            "vin": "WMEEJ3BA1FK802193"
+        }, {
+            "address": "The Parking Spot",
+            "coordinates": [-97.67598, 30.22049, 0],
+            "engineType": "CE",
+            "exterior": "GOOD",
+            "fuel": 100,
+            "interior": "GOOD",
+            "name": "FHB 1678",
+            "smartPhoneRequired": false,
+            "vin": "WMEEJ3BA9FK802457"
+        }, {
+            "address": "W 33rd St 665, 78705 Austin",
+            "coordinates": [-97.74103, 30.30041, 0],
+            "engineType": "CE",
+            "exterior": "GOOD",
+            "fuel": 100,
+            "interior": "GOOD",
+            "name": "FJC 9932",
+            "smartPhoneRequired": false,
+            "vin": "WMEEJ3BA0FK801441"
+        }, {
+            "address": "E 8th St 1859, 78702 Austin",
+            "coordinates": [-97.72135, 30.26328, 0],
+            "engineType": "CE",
+            "exterior": "GOOD",
+            "fuel": 39,
+            "interior": "GOOD",
+            "name": "FJC 9785",
+            "smartPhoneRequired": false,
+            "vin": "WMEEJ3BA3FK802518"
+        }, {
+            "address": "E 5th St 1279, 78702 Austin",
+            "coordinates": [-97.73004, 30.26325, 0],
+            "engineType": "CE",
+            "exterior": "GOOD",
+            "fuel": 96,
+            "interior": "GOOD",
+            "name": "FHB 1332",
+            "smartPhoneRequired": false,
+            "vin": "WMEEJ3BAXFK801057"
+        }, {
+            "address": "Crockett St 177, 78704 Austin",
+            "coordinates": [-97.75296, 30.2432, 0],
+            "engineType": "CE",
+            "exterior": "GOOD",
+            "fuel": 81,
+            "interior": "GOOD",
+            "name": "FHB 2898",
+            "smartPhoneRequired": false,
+            "vin": "WMEEJ3BA3FK799989"
+        }, {
+            "address": "E 51st St 1310, 78723 Austin",
+            "coordinates": [-97.70619, 30.30755, 0],
+            "engineType": "CE",
+            "exterior": "GOOD",
+            "fuel": 90,
+            "interior": "GOOD",
+            "name": "FGZ 8611",
+            "smartPhoneRequired": false,
+            "vin": "WMEEJ3BA0FK800323"
+        }, {
+            "address": "S 1st St 3582, 78704 Austin",
+            "coordinates": [-97.76716, 30.23107, 0],
+            "engineType": "CE",
+            "exterior": "GOOD",
+            "fuel": 21,
+            "interior": "GOOD",
+            "name": "FHB 1679",
+            "smartPhoneRequired": false,
+            "vin": "WMEEJ3BA9FK802278"
+        }, {
+            "address": "The Parking Spot",
+            "coordinates": [-97.67598, 30.22049, 0],
+            "engineType": "CE",
+            "exterior": "GOOD",
+            "fuel": 100,
+            "interior": "GOOD",
+            "name": "FGZ 8682",
+            "smartPhoneRequired": false,
+            "vin": "WMEEJ3BA2FK802896"
+        }, {
+            "address": "Barton Skwy 2841, 78746 Austin",
+            "coordinates": [-97.78825, 30.25869, 0],
+            "engineType": "CE",
+            "exterior": "GOOD",
+            "fuel": 93,
+            "interior": "GOOD",
+            "name": "FFD 7841",
+            "smartPhoneRequired": false,
+            "vin": "WMEEJ3BA6FK803145"
+        }, {
+            "address": "Rountree Dr 2162, 78722 Austin",
+            "coordinates": [-97.70842, 30.28405, 0],
+            "engineType": "CE",
+            "exterior": "GOOD",
+            "fuel": 42,
+            "interior": "GOOD",
+            "name": "FJC 9936",
+            "smartPhoneRequired": false,
+            "vin": "WMEEJ3BA2FK801781"
+        }, {
+            "address": "Jewell St 1118, 78704 Austin",
+            "coordinates": [-97.7607, 30.25261, 0],
+            "engineType": "CE",
+            "exterior": "GOOD",
+            "fuel": 100,
+            "interior": "GOOD",
+            "name": "FGZ 8806",
+            "smartPhoneRequired": false,
+            "vin": "WMEEJ3BA9FK801762"
+        }, {
+            "address": "Clawson Rd 3803, 78704 Austin",
+            "coordinates": [-97.78068, 30.23294, 0],
+            "engineType": "CE",
+            "exterior": "GOOD",
+            "fuel": 33,
+            "interior": "GOOD",
+            "name": "FHB 1681",
+            "smartPhoneRequired": false,
+            "vin": "WMEEJ3BA0FK802167"
+        }, {
+            "address": "Anken Dr 2351, 78741 Austin",
+            "coordinates": [-97.72931, 30.23114, 0],
+            "engineType": "CE",
+            "exterior": "GOOD",
+            "fuel": 60,
+            "interior": "GOOD",
+            "name": "FGZ 8616",
+            "smartPhoneRequired": false,
+            "vin": "WMEEJ3BA3FK802406"
+        }, {
+            "address": "Rainey St 16, 78701 Austin",
+            "coordinates": [-97.73982, 30.25595, 0],
+            "engineType": "CE",
+            "exterior": "GOOD",
+            "fuel": 100,
+            "interior": "GOOD",
+            "name": "FJC 9787",
+            "smartPhoneRequired": false,
+            "vin": "WMEEJ3BA7FK802439"
+        }, {
+            "address": "Executive Center Dr 3764, 78731 Austin",
+            "coordinates": [-97.75013, 30.36306, 0],
+            "engineType": "CE",
+            "exterior": "GOOD",
+            "fuel": 96,
+            "interior": "GOOD",
+            "name": "FHB 1675",
+            "smartPhoneRequired": false,
+            "vin": "WMEEJ3BA3FK803216"
+        }, {
+            "address": "Austin City Living - 5th St",
+            "coordinates": [-97.75143, 30.26947, 0],
+            "engineType": "CE",
+            "exterior": "GOOD",
+            "fuel": 51,
+            "interior": "GOOD",
+            "name": "FJC 9793",
+            "smartPhoneRequired": false,
+            "vin": "WMEEJ3BA6FK801945"
+        }, {
+            "address": "Sunny Ln 501, 78704 Austin",
+            "coordinates": [-97.74326, 30.25213, 0],
+            "engineType": "CE",
+            "exterior": "GOOD",
+            "fuel": 90,
+            "interior": "GOOD",
+            "name": "FHB 2870",
+            "smartPhoneRequired": false,
+            "vin": "WMEEJ3BA0FK802654"
+        }, {
+            "address": "Lazy Ln 7828, 78757 Austin",
+            "coordinates": [-97.72058, 30.35062, 0],
+            "engineType": "CE",
+            "exterior": "GOOD",
+            "fuel": 90,
+            "interior": "GOOD",
+            "name": "FJC 9783",
+            "smartPhoneRequired": false,
+            "vin": "WMEEJ3BA3FK802678"
+        }, {
+            "address": "Prospect Ave 1106, 78702 Austin",
+            "coordinates": [-97.71781, 30.26564, 0],
+            "engineType": "CE",
+            "exterior": "GOOD",
+            "fuel": 90,
+            "interior": "GOOD",
+            "name": "FJD 0193",
+            "smartPhoneRequired": false,
+            "vin": "WMEEJ3BA5FK802133"
+        }, {
+            "address": "Hillcrest Ln 1702, 78721 Austin",
+            "coordinates": [-97.67699, 30.27817, 0],
+            "engineType": "CE",
+            "exterior": "GOOD",
+            "fuel": 39,
+            "interior": "GOOD",
+            "name": "FHB 2861",
+            "smartPhoneRequired": false,
+            "vin": "WMEEJ3BA5FK800771"
+        }, {
+            "address": "Monroe St W 410, 78704 Austin",
+            "coordinates": [-97.75363, 30.24889, 0],
+            "engineType": "CE",
+            "exterior": "GOOD",
+            "fuel": 100,
+            "interior": "GOOD",
+            "name": "FBV 4493",
+            "smartPhoneRequired": false,
+            "vin": "WMEEJ3BA7FK802330"
+        }]
+}
