@@ -14,12 +14,12 @@ public class PolygonConverter extends StdConverter<double[], List<Coordinates>> 
             throw new IllegalArgumentException("coordinates have to be a multiple of 3");
         }
         
-        int pointCount = in.length / 3;
+        int pointCount = in.length;
         
         List<Coordinates> coordinates = new ArrayList<>(pointCount);
         
         for(int i = 0; i < pointCount; i+=3){
-            coordinates.add(new Coordinates(in[i], in[i+1]));
+            coordinates.add(new Coordinates(in[i+1], in[i]));
         }
 
         
