@@ -16,7 +16,7 @@ public class PolygonConverter extends StdConverter<double[], List<Coordinates>> 
         
         int pointCount = in.length;
         
-        List<Coordinates> coordinates = new ArrayList<>(pointCount);
+        List<Coordinates> coordinates = new ArrayList<>(pointCount/3);
         
         for(int i = 0; i < pointCount; i+=3){
             coordinates.add(new Coordinates(in[i+1], in[i]));
