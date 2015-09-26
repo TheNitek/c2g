@@ -90,11 +90,11 @@ public class MappingTest extends BaseJsonTestCase {
         
         assertEquals("MILANO", area.getName());
         assertEquals(Area.Type.INCLUDED, area.getType());
-        assertEquals(455, area.getOutline().size());
-        assertEquals(9.157288, area.getOutline().get(0).getLatitude(), 0);
-        assertEquals(45.522465, area.getOutline().get(0).getLongitude(), 0);
-        assertEquals(9.152029, area.getOutline().get(1).getLatitude(), 0);
-        assertEquals(45.52143, area.getOutline().get(1).getLongitude(), 0);
+        assertEquals(1364, area.getOutline().size());
+        assertEquals(9.157288, area.getOutline().get(0).getLongitude(), 0);
+        assertEquals(45.522465, area.getOutline().get(0).getLatitude(), 0);
+        assertEquals(9.152029, area.getOutline().get(1).getLongitude(), 0);
+        assertEquals(45.52143, area.getOutline().get(1).getLatitude(), 0);
     }
 
         
@@ -106,7 +106,7 @@ public class MappingTest extends BaseJsonTestCase {
         
         assertEquals("MILANO_ISLAND 1", area.getName());
         assertEquals(Area.Type.EXCLUDED, area.getType());
-        assertEquals(11, area.getOutline().size());
+        assertEquals(31, area.getOutline().size());
     }
     
     @Test
@@ -117,21 +117,23 @@ public class MappingTest extends BaseJsonTestCase {
         
         assertEquals("MILANO_ISLAND 2", area.getName());
         assertEquals(Area.Type.PARKING, area.getType());
-        assertEquals(10, area.getOutline().size());
+        assertEquals(29, area.getOutline().size());
     }
     
+    @Test
     public void testGasstation() throws Exception {
         String gasstationJson = this.readFile("gasstations/gasstation.json");
         
         GasStation gasstation = mapper.readValue(gasstationJson, GasStation.class);
         
         assertEquals("Shell, Ahrensburger Str. 35", gasstation.getName());
-        assertEquals(10.09325, gasstation.getCoordinates().getLatitude(), 0);
-        assertEquals(53.57816, gasstation.getCoordinates().getLongitude(), 0);
+        assertEquals(10.09325, gasstation.getCoordinates().getLongitude(), 0);
+        assertEquals(53.57816, gasstation.getCoordinates().getLatitude(), 0);
     }
 
+    @Test
     public void testParkingSpotNoCharging() throws Exception {
-        String parkingSpotJson = this.readFile("parkspots/parkspot.json");
+        String parkingSpotJson = this.readFile("parkspots/nocharging.json");
         
         ParkingSpot parkingSpot = mapper.readValue(parkingSpotJson, ParkingSpot.class);
         
@@ -139,7 +141,7 @@ public class MappingTest extends BaseJsonTestCase {
         assertEquals(false, parkingSpot.isChargingPole());
         assertEquals(4, parkingSpot.getTotalCapacity());
         assertEquals(0, parkingSpot.getUsedCapacity());
-        assertEquals(10.02377, parkingSpot.getCoordinates().getLatitude(), 0);
-        assertEquals(53.55328, parkingSpot.getCoordinates().getLongitude(), 0);
+        assertEquals(10.02377, parkingSpot.getCoordinates().getLongitude(), 0);
+        assertEquals(53.55328, parkingSpot.getCoordinates().getLatitude(), 0);
     }
 }
